@@ -16,7 +16,8 @@ def get_exoplanet_details(exoplanet):
     try:
         # Extracting data from the exoplanet text
         lines = exoplanet.text.split('\n')
-        for line in lines:
+        contents["Planet Name"] = lines[0]
+        for line in lines[:1]:
             if ': ' in line:
                 key, value = line.split(': ', 1)  # Split into key and value, limit to 1 split
                 contents[key] = value  
@@ -47,7 +48,7 @@ def main():
     webdriver_path = r"C:\Program Files (x86)\chromedriver.exe"
     service = Service(webdriver_path)
     
-    for page_id in range(1, 384):
+    for page_id in range(1, 51):
         driver = webdriver.Chrome(service=service)
         url = f"https://science.nasa.gov/exoplanets/exoplanet-catalog/?pageno={page_id}&content_list=true"
         driver.get(url)
@@ -63,7 +64,7 @@ def main():
             print(f"An error occurred on page {page_id}: {e}")
         finally:
             driver.quit()
-    
+    print(len(exoplanet_content))
     df = pd.DataFrame(data=exoplanet_content, columns=columns)
     df.to_csv('nasa_exoplanets.csv', index=False)
 

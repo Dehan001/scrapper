@@ -16,7 +16,8 @@ def get_exoplanet_details(exoplanet):
         
     contents ={}
     lines = exoplanet.text.split('\n')
-    for line in lines:
+    contents["Planet Name"] = lines[0]
+    for line in lines[1:]:
         key, value = line.split(': ', 1)  # Split into key and value, limit to 1 split
         contents[key] = value  
     url2_plants = f"https://science.nasa.gov/exoplanet-catalog/{contents["Planet Name"]}/"

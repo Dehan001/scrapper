@@ -48,7 +48,7 @@ def main():
     webdriver_path = r"C:\Program Files (x86)\chromedriver.exe"
     service = Service(webdriver_path)
     
-    for page_id in range(1, 51):
+    for page_id in range(51, 101):
         driver = webdriver.Chrome(service=service)
         url = f"https://science.nasa.gov/exoplanets/exoplanet-catalog/?pageno={page_id}&content_list=true"
         driver.get(url)
@@ -66,7 +66,7 @@ def main():
             driver.quit()
     print(len(exoplanet_content))
     df = pd.DataFrame(data=exoplanet_content, columns=columns)
-    df.to_csv('nasa_exoplanets.csv', index=False)
+    df.to_csv('nasa_exoplanets_part2.csv', index=False)
 
 if __name__ == "__main__":
     main()

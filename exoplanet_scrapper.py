@@ -23,7 +23,8 @@ def get_exoplanet_details(exoplanet):
                 contents[key] = value  
 
         # Construct URL and fetch details
-        url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-')}/"
+        url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-').replace('.', '')}/"
+
         driver.get(url2_planets)
         
         # Wait for elements to be present
@@ -47,8 +48,8 @@ def main():
     exoplanet_content = []
     webdriver_path = r"C:\Program Files (x86)\chromedriver.exe"
     service = Service(webdriver_path)
-    
-    for page_id in range(51, 101):
+    count =0
+    for page_id in range(101, 201):
         driver = webdriver.Chrome(service=service)
         url = f"https://science.nasa.gov/exoplanets/exoplanet-catalog/?pageno={page_id}&content_list=true"
         driver.get(url)
@@ -60,13 +61,18 @@ def main():
             
             for exoplanet in exoplanets:
                 exoplanet_content.append(get_exoplanet_details(exoplanet))
+
         except Exception as e:
             print(f"An error occurred on page {page_id}: {e}")
         finally:
             driver.quit()
-    print(len(exoplanet_content))
-    df = pd.DataFrame(data=exoplanet_content, columns=columns)
-    df.to_csv('nasa_exoplanets_part2.csv', index=False)
+        if (page_id%10==0):
+            print(len(exoplanet_content))
+            df = pd.DataFrame(data=exoplanet_content, columns=columns)
+            df.to_csv(f'nasa_exoplanets_part1{count}.csv', index=False)
+            exoplanet_content=[]
+            count += 1
+
 
 if __name__ == "__main__":
     main()

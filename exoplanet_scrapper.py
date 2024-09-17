@@ -17,15 +17,18 @@ def get_exoplanet_details(exoplanet):
         # Extracting data from the exoplanet text
         lines = exoplanet.text.split('\n')
         contents["Planet Name"] = lines[0]
-        for line in lines[:1]:
+        for line in lines[1:]:
             if ': ' in line:
                 key, value = line.split(': ', 1)  # Split into key and value, limit to 1 split
                 contents[key] = value  
 
         # Construct URL and fetch details
-        url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-').replace('.', '')}/"
-
-        driver.get(url2_planets)
+        url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-').replace('.', '').lower()}/"
+        try:
+            driver.get(url2_planets)
+        except:
+            url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-').replace('.', '-').lower()}/"
+            driver.get(url2_planets)
         
         # Wait for elements to be present
         wait = WebDriverWait(driver, 10)
@@ -48,8 +51,8 @@ def main():
     exoplanet_content = []
     webdriver_path = r"C:\Program Files (x86)\chromedriver.exe"
     service = Service(webdriver_path)
-    count =0
-    for page_id in range(101, 201):
+    count = 1
+    for page_id in range(1, 385):
         driver = webdriver.Chrome(service=service)
         url = f"https://science.nasa.gov/exoplanets/exoplanet-catalog/?pageno={page_id}&content_list=true"
         driver.get(url)
@@ -66,10 +69,10 @@ def main():
             print(f"An error occurred on page {page_id}: {e}")
         finally:
             driver.quit()
-        if (page_id%10==0):
+        if (page_id%10==0 or page_id==384):
             print(len(exoplanet_content))
             df = pd.DataFrame(data=exoplanet_content, columns=columns)
-            df.to_csv(f'nasa_exoplanets_part1{count}.csv', index=False)
+            df.to_csv(f'nasa_exoplanets_part{count}.csv', index=False)
             exoplanet_content=[]
             count += 1
 

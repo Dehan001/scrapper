@@ -52,7 +52,7 @@ def main():
     webdriver_path = r"C:\Program Files (x86)\chromedriver.exe"
     service = Service(webdriver_path)
     count = 6
-    for page_id in range(51, 385):
+    for page_id in range(51, 371):
         driver = webdriver.Chrome(service=service)
         url = f"https://science.nasa.gov/exoplanets/exoplanet-catalog/?pageno={page_id}&content_list=true"
         driver.get(url)

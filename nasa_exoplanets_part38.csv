@@ -1,0 +1,16 @@
+Planet Name,Parsecs from Earth,Planet Mass,Stellar Magnitude,Discovery Date,Planet Radius,Planet Type,Discovery Method,Orbital Radius,Orbital Period,Eccentricity
+OGLE-2013-BLG-1721L b,,0.64 Jupiters,,2017,1.26 x Jupiter (estimate),Gas Giant,Microlensing,2.6 AU,6.2 years,
+OGLE-2013-BLG-0132L b,,0.29 Jupiters,,2017,1.03 x Jupiter (estimate),Gas Giant,Microlensing,3.6 AU,9.3 years,
+WASP-153 b,,0.39 Jupiters,,2017,1.55 x Jupiter,Gas Giant,Transit,0.048 AU,3.3 days,< 0.009
+WASP-151 b,,0.316 Jupiters,,2017,1.187 x Jupiter,Gas Giant,Transit,0.055 AU,4.5 days,0.0
+K2-133 d,,4.67 Earths,,2017,2.003 x Earth,Super Earth,Transit,0.07487 AU,11 days,
+K2-133 c,,3.2 Earths,,2017,1.603 x Earth,Super Earth,Transit,0.04341 AU,4.9 days,
+K2-133 b,,2.36 Earths,,2017,1.34 x Earth,Super Earth,Transit,0.03194 AU,3.1 days,
+K2-131 b,,7.9 Earths,,2017,1.69 x Earth,Super Earth,Transit,0.00936 AU,0.4 days,0.0
+K2-132 b,,0.49 Jupiters,,2017,1.3 x Jupiter,Gas Giant,Transit,0.0916 AU,9.2 days,0.29
+K2-130 b,,2.1 Earths,,2017,1.25 x Earth,Super Earth,Transit,0.032 AU,2.5 days,0.17
+K2-129 b,,1.12 Earths,,2017,1.04 x Earth,Super Earth,Transit,0.057 AU,8.2 days,0.13
+K2-128 b,,2.6 Earths,,2017,1.42 x Earth,Super Earth,Transit,0.056 AU,5.7 days,0.23
+K2-127 b,,0.167 Jupiters,,2017,0.747 x Jupiter,Gas Giant,Transit,0.0411 AU,3.6 days,0.12
+K2-126 b,,4.54 Earths,,2017,1.97 x Earth,Super Earth,Transit,0.0656 AU,7.4 days,0.06
+K2-125 b,,5.39 Earths,,2017,2.18 x Earth,Neptune-like,Transit,0.121 AU,21.8 days,0.08

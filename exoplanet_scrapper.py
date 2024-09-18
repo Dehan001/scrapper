@@ -23,8 +23,8 @@ def get_exoplanet_details(exoplanet):
                 contents[key] = value  
 
         # Construct URL and fetch details
-        url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-').replace('.', '').lower()}/"
         try:
+            url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-').replace('.', '').lower()}/"
             driver.get(url2_planets)
         except:
             url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-').replace('.', '-').lower()}/"
@@ -51,8 +51,8 @@ def main():
     exoplanet_content = []
     webdriver_path = r"C:\Program Files (x86)\chromedriver.exe"
     service = Service(webdriver_path)
-    count = 1
-    for page_id in range(1, 385):
+    count = 6
+    for page_id in range(51, 385):
         driver = webdriver.Chrome(service=service)
         url = f"https://science.nasa.gov/exoplanets/exoplanet-catalog/?pageno={page_id}&content_list=true"
         driver.get(url)

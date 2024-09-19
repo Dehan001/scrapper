@@ -14,13 +14,12 @@ def get_exoplanet_details(exoplanet):
     contents = {}
     lines = exoplanet.text.split('\n')
     contents["Planet Name"] = lines[0]
-    for line in lines[1:]:
+    for line in lines:
         if ': ' in line:
             key, value = line.split(': ', 1)  # Split into key and value, limit to 1 split
             contents[key] = value 
     
     try:
-        # Construct URL and fetch details
         try: 
             url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-').replace('.', '').lower()}/"
             driver.get(url2_planets)
@@ -28,10 +27,6 @@ def get_exoplanet_details(exoplanet):
             url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-').replace('.', '-').lower()}/"
             driver.get(url2_planets)
             
-        
-        # Wait for elements to be present
-        # wait = WebDriverWait(driver, 2)
-        # planet_info_blocks = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "smd-acf-grid-col")))
         planet_info_blocks = driver.find_elements(By.CLASS_NAME, "smd-acf-grid-col")
 
         for block in planet_info_blocks:
@@ -51,16 +46,13 @@ def main():
     exoplanet_content = []
     webdriver_path = r"C:\Program Files (x86)\chromedriver.exe"
     service = Service(webdriver_path)
-    count = 11
-    for page_id in range(101, 371):
+    count = 19
+    for page_id in range(181, 361):
         driver = webdriver.Chrome(service=service)
         url = f"https://science.nasa.gov/exoplanets/exoplanet-catalog/?pageno={page_id}&content_list=true"
         driver.get(url)
         
         try:
-            # Wait for exoplanet elements to be present
-            # wait = WebDriverWait(driver, 2)
-            # exoplanets = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "hds-content-item")))
             exoplanets = driver.find_elements(By.CLASS_NAME, "hds-content-item")
 
             for exoplanet in exoplanets:

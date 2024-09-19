@@ -21,19 +21,19 @@ def get_exoplanet_details(exoplanet):
     
     try:
         # Construct URL and fetch details
-        try: 
+        try:
             url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-').replace('.', '').lower()}/"
             driver.get(url2_planets)
         except:
             url2_planets = f"https://science.nasa.gov/exoplanet-catalog/{contents.get('Planet Name', '').replace(' ', '-').replace('.', '-').lower()}/"
             driver.get(url2_planets)
+        
             
         
         # Wait for elements to be present
-        # wait = WebDriverWait(driver, 2)
-        # planet_info_blocks = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "smd-acf-grid-col")))
-        planet_info_blocks = driver.find_elements(By.CLASS_NAME, "smd-acf-grid-col")
-
+        wait = WebDriverWait(driver, 10)
+        planet_info_blocks = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "smd-acf-grid-col")))
+        
         for block in planet_info_blocks:
             label_element = block.find_element(By.CLASS_NAME, "text-bold")
             value_element = block.find_element(By.TAG_NAME, "span")
@@ -42,6 +42,8 @@ def get_exoplanet_details(exoplanet):
             contents[label] = value
     except Exception as e:
         print(f"An error occurred: {e}")
+
+      
     finally:
         driver.quit()
     
@@ -59,9 +61,8 @@ def main():
         
         try:
             # Wait for exoplanet elements to be present
-            # wait = WebDriverWait(driver, 2)
-            # exoplanets = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "hds-content-item")))
-            exoplanets = driver.find_elements(By.CLASS_NAME, "hds-content-item")
+            wait = WebDriverWait(driver, 10)
+            exoplanets = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "hds-content-item")))
 
             for exoplanet in exoplanets:
                 exoplanet_content.append(get_exoplanet_details(exoplanet))

@@ -5,21 +5,20 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 
-columns = ["Planet Name", "Parsecs From Earth", "Planet Mass", "Stellar Magnitude", "Discovery Date", "Planet Radius", "Planet Type", "Discovery Method", "Orbital Radius", "Orbital Period", "Eccentricity"]
+columns = ["Planet Name", "Parsecs from Earth", "Planet Mass", "Stellar Magnitude", "Discovery Date", "Planet Radius", "Planet Type", "Discovery Method", "Orbital Radius", "Orbital Period", "Eccentricity"]
 
 def get_exoplanet_details(exoplanet):
+    webdriver_path = r"C:\Program Files (x86)\chromedriver.exe"
+    service = Service(webdriver_path)
+    driver = webdriver.Chrome(service=service)
+    contents = {}
     lines = exoplanet.text.split('\n')
+    _,contents["Parsecs from Earth"] = lines[1].split(': ', 1)
     contents["Planet Name"] = lines[0]
     for line in lines:
         if ': ' in line:
             key, value = line.split(': ', 1)  # Split into key and value, limit to 1 split
             contents[key.strip()] = value.strip()
-
-    webdriver_path = r"C:\Program Files (x86)\chromedriver.exe"
-    service = Service(webdriver_path)
-    driver = webdriver.Chrome(service=service)
-    contents = {}
-
     
     try:
         try: 
@@ -48,8 +47,8 @@ def main():
     exoplanet_content = []
     webdriver_path = r"C:\Program Files (x86)\chromedriver.exe"
     service = Service(webdriver_path)
-    count = 20
-    for page_id in range(191, 361):
+    count = 27
+    for page_id in range(261, 351):
         driver = webdriver.Chrome(service=service)
         url = f"https://science.nasa.gov/exoplanets/exoplanet-catalog/?pageno={page_id}&content_list=true"
         driver.get(url)

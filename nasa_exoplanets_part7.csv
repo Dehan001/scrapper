@@ -1,136 +1,151 @@
 Planet Name,Parsecs from Earth,Planet Mass,Stellar Magnitude,Discovery Date,Planet Radius,Planet Type,Discovery Method,Orbital Radius,Orbital Period,Eccentricity
-HD 99283 b,,0.97 Jupiters,5.72916,2021,,,,,,
-HD 79181 b,,0.64 Jupiters,5.72,2021,1.26 x Jupiter (estimate),Gas Giant,Radial Velocity,0.9 AU,273.1 days,0.26
-HD 360 b,,0.75 Jupiters,5.986,2021,1.25 x Jupiter (estimate),Gas Giant,Radial Velocity,0.98 AU,273.1 days,0.14
-HD 219139 b,,0.78 Jupiters,5.84863,2021,1.24 x Jupiter (estimate),Gas Giant,Radial Velocity,0.94 AU,275.5 days,0.11
-HD 161178 b,,0.57 Jupiters,5.88375,2021,1.26 x Jupiter (estimate),Gas Giant,Radial Velocity,0.85 AU,279.3 days,0.04
-HD 10975 b,,0.45 Jupiters,5.94188,2021,1.28 x Jupiter (estimate),Gas Giant,Radial Velocity,0.95 AU,283.8 days,0.44
-Gamma Piscium b,,1.34 Jupiters,3.69252,2021,1.22 x Jupiter (estimate),Gas Giant,Radial Velocity,1.32 AU,1.5 years,0.2
-BD+60 1417 b,,15 Jupiters,9.374,2021,1.31 x Jupiter,Gas Giant,Imaging,1662 AU,67794.6 years,
-TOI-2109 b,,5.02 Jupiters,10.217,2021,1.347 x Jupiter,Gas Giant,Transit,0.01791 AU,0.7 days,
-TOI-1842 b,,0.28128 Jupiters,9.815,2021,1.102 x Jupiter,Gas Giant,Transit,0.1 AU,9.6 days,0.28
-HATS-77 b,,1.374 Jupiters,16.195,2021,1.165 x Jupiter,Gas Giant,Transit,0.03607 AU,3.1 days,< 0.045
-HATS-76 b,,2.629 Jupiters,16.68,2021,1.079 x Jupiter,Gas Giant,Transit,0.02658 AU,1.9 days,< 0.062
-HATS-75 b,,0.491 Jupiters,15.689,2021,0.884 x Jupiter,Gas Giant,Transit,0.032742 AU,2.8 days,< 0.064
-HATS-74 A b,,1.46 Jupiters,17.26,2021,1.032 x Jupiter,Gas Giant,Transit,0.02384 AU,1.7 days,< 0.044
-Kepler-633 c,,5.89 Earths,13.812,2021,0.205 x Jupiter,Neptune-like,Transit,0.1618 AU,23.8 days,0.0
-Kepler-281 d,,29.5 Earths,15.931,2021,0.53 x Jupiter,Neptune-like,Transit,0.5456 AU,148.3 days,0.0
-Kepler-1940 b,,3.01 Earths,15.674,2021,1.547 x Earth,Super Earth,Transit,0.0525 AU,5 days,0.0
-Kepler-1938 b,,4 Earths,15.246,2021,1.828 x Earth,Super Earth,Transit,0.0938 AU,13.1 days,0.0
-Kepler-1934 b,,0.702 Earths,12.874,2021,0.913 x Earth,Terrestrial,Transit,0.0245 AU,1.4 days,0.0
-Kepler-1907 c,,1.63 Earths,13.989,2021,1.155 x Earth,Super Earth,Transit,0.1076 AU,14.9 days,0.0
-Kepler-1893 b,,3.55 Earths,15.152,2021,1.706 x Earth,Super Earth,Transit,0.0504 AU,4.2 days,0.0
-Kepler-1889 b,,8.98 Earths,15.715,2021,0.263 x Jupiter,Neptune-like,Transit,0.2082 AU,37.3 days,0.0
-Kepler-1887 b,,8.88 Earths,15.955,2021,0.261 x Jupiter,Neptune-like,Transit,0.1421 AU,19.9 days,0.0
-Kepler-1869 b,,1.46 Earths,10.31,2021,1.12 x Earth,Super Earth,Transit,0.0791 AU,8.2 days,0.0
-Kepler-1841 b,,2.82 Earths,14.855,2021,,,,,,
-Kepler-1831 b,,4.54 Earths,15.158,2021,,,,,,
-Kepler-1822 b,,7.5 Earths,15.804,2021,,,,,,
-Kepler-1796 b,,8 Earths,14.493,2021,,,,,,
-Kepler-1794 b,,3.87 Earths,15.497,2021,1.794 x Earth,Super Earth,Transit,0.0821 AU,9.8 days,0.0
-Kepler-1743 b,,3.18 Earths,12.062,2021,1.599 x Earth,Super Earth,Transit,0.0822 AU,7.6 days,0.0
-Kepler-1720 b,,10.4 Earths,14.822,2021,0.287 x Jupiter,Neptune-like,Transit,0.1043 AU,12.7 days,0.0
-Kepler-1693 c,,0.894 Earths,14.857,2021,,,,,,
-Kepler-1669 c,,4.27 Earths,16.473,2021,1.901 x Earth,Super Earth,Transit,0.0228 AU,1.6 days,0.0
-Kepler-394 d,,2.86 Earths,14.948,2021,1.501 x Earth,Super Earth,Transit,0.0646 AU,5.6 days,0.0
-Kepler-1953 b,,2.2 Earths,15.936,2021,,,,,,
-Kepler-1925 b,,9.28 Earths,15.382,2021,,,,,,
-Kepler-1920 b,,9.03 Earths,14.392,2021,0.264 x Jupiter,Neptune-like,Transit,0.2043 AU,30.3 days,0.0
-Kepler-1911 b,,1.01 Earths,12.245,2021,1.011 x Earth,Super Earth,Transit,0.0636 AU,6 days,0.0
-Kepler-1896 b,,9.8 Earths,15.844,2021,0.277 x Jupiter,Neptune-like,Transit,0.2529 AU,44.9 days,0.0
-Kepler-1890 b,,0.587 Earths,12.916,2021,0.869 x Earth,Terrestrial,Transit,0.0563 AU,4.8 days,0.0
-Kepler-1867 b,,1.65 Earths,13.549,2021,1.16 x Earth,Super Earth,Transit,0.0872 AU,9.9 days,0.0
-Kepler-1854 b,,7.21 Earths,14.381,2021,0.231 x Jupiter,Neptune-like,Transit,0.2119 AU,39.8 days,0.0
-Kepler-1851 b,,14.5 Earths,15.699,2021,0.348 x Jupiter,Neptune-like,Transit,0.1016 AU,12 days,0.0
-Kepler-1820 b,,9.9 Earths,15.759,2021,0.278 x Jupiter,Neptune-like,Transit,0.1964 AU,31 days,0.0
-Kepler-1814 b,,6.21 Earths,15.814,2021,0.211 x Jupiter,Neptune-like,Transit,0.0371 AU,2.9 days,0.0
-Kepler-1804 b,,3.18 Earths,14.679,2021,1.596 x Earth,Super Earth,Transit,0.1017 AU,12.3 days,0.0
-Kepler-1792 b,,6.89 Earths,15.566,2021,0.225 x Jupiter,Neptune-like,Transit,0.0488 AU,4.2 days,0.0
-Kepler-1788 b,,6.25 Earths,15.484,2021,0.212 x Jupiter,Neptune-like,Transit,0.0343 AU,2.8 days,0.0
-Kepler-1773 b,,12.1 Earths,13.085,2021,0.313 x Jupiter,Neptune-like,Transit,0.2489 AU,40.8 days,0.0
-Kepler-1764 b,,18.8 Earths,14.91,2021,0.406 x Jupiter,Neptune-like,Transit,0.3512 AU,70.5 days,0.0
-Kepler-1760 b,,5.86 Earths,14.472,2021,0.204 x Jupiter,Neptune-like,Transit,0.2084 AU,38.3 days,0.0
-Kepler-1756 b,,2.77 Earths,15.736,2021,1.472 x Earth,Super Earth,Transit,0.0319 AU,2.4 days,0.0
-Kepler-1754 b,,6.53 Earths,16.007,2021,0.218 x Jupiter,Neptune-like,Transit,0.0718 AU,8.2 days,0.0
-Kepler-1746 b,,0.186 Jupiters,13.572,2021,0.797 x Jupiter,Gas Giant,Transit,0.9453 AU,321.2 days,0.0
-Kepler-1745 b,,4.38 Earths,14.854,2021,1.929 x Earth,Super Earth,Transit,0.0408 AU,3 days,0.0
-Kepler-1734 b,,9.74 Earths,15.598,2021,0.276 x Jupiter,Neptune-like,Transit,0.0714 AU,6.8 days,0.0
-Kepler-1731 b,,8.92 Earths,12.742,2021,0.262 x Jupiter,Neptune-like,Transit,0.1401 AU,21.8 days,0.0
-Kepler-1728 b,,9.04 Earths,15.279,2021,0.264 x Jupiter,Neptune-like,Transit,0.0535 AU,4.8 days,0.0
-Kepler-1722 b,,8.58 Earths,14.997,2021,0.256 x Jupiter,Neptune-like,Transit,0.0819 AU,9.2 days,0.0
-Kepler-1711 b,,4.36 Earths,13.298,2021,1.923 x Earth,Super Earth,Transit,0.1463 AU,21.1 days,0.0
-Kepler-1806 b,,6.15 Earths,16.173,2021,0.21 x Jupiter,Neptune-like,Transit,0.0813 AU,9 days,0.0
-Kepler-1791 b,,9.91 Earths,13.529,2021,0.278 x Jupiter,Neptune-like,Transit,0.0761 AU,7.7 days,0.0
-Kepler-1790 b,,10 Earths,14.179,2021,0.281 x Jupiter,Neptune-like,Transit,0.197 AU,31.6 days,0.0
-Kepler-1771 b,,15.5 Earths,13.802,2021,0.362 x Jupiter,Neptune-like,Transit,0.3815 AU,88.6 days,0.0
-Kepler-1765 b,,6.78 Earths,15.04,2021,0.223 x Jupiter,Neptune-like,Transit,0.0917 AU,10.4 days,0.0
-Kepler-1755 b,,29.4 Earths,14.544,2021,0.528 x Jupiter,Neptune-like,Transit,0.1668 AU,24.8 days,0.0
-Kepler-1752 b,,18.7 Earths,16.0249,2021,0.405 x Jupiter,Neptune-like,Transit,0.2698 AU,56.4 days,0.0
-Kepler-1739 b,,6.48 Earths,14.899,2021,0.217 x Jupiter,Neptune-like,Transit,0.0697 AU,7.3 days,0.0
-Kepler-1729 b,,14.4 Earths,15.676,2021,0.347 x Jupiter,Neptune-like,Transit,0.0418 AU,4.2 days,0.0
-Kepler-1714 b,,10.7 Earths,11.041,2021,0.291 x Jupiter,Neptune-like,Transit,0.1047 AU,10.3 days,0.0
-Kepler-913 c,,14.2 Earths,15.522,2021,0.344 x Jupiter,Neptune-like,Transit,0.0699 AU,5.9 days,0.0
-Kepler-799 c,,8.15 Earths,15.166,2021,0.248 x Jupiter,Neptune-like,Transit,0.1214 AU,15.2 days,0.0
-Kepler-324 e,,4.81 Earths,14.222,2021,2.039 x Earth,Super Earth,Transit,0.1074 AU,14 days,0.0
-Kepler-1937 b,,9.39 Earths,14.163,2021,0.27 x Jupiter,Neptune-like,Transit,0.0943 AU,9.7 days,0.0
-Kepler-1935 b,,6.82 Earths,14.522,2021,0.223 x Jupiter,Neptune-like,Transit,0.0463 AU,4 days,0.0
-Kepler-1924 b,,7.53 Earths,15.084,2021,0.237 x Jupiter,Neptune-like,Transit,0.1216 AU,15.3 days,0.0
-Kepler-1895 b,,5.14 Earths,15.787,2021,2.119 x Earth,Neptune-like,Transit,0.0615 AU,6.1 days,0.0
-Kepler-1891 b,,2.93 Earths,14.412,2021,1.521 x Earth,Super Earth,Transit,0.0473 AU,4 days,0.0
-Kepler-1879 b,,4.92 Earths,12.825,2021,,,,,,
-Kepler-1876 b,,2.4 Earths,10.793,2021,0.853 x Earth,Super Earth,Transit,0.0758 AU,7 days,< 0.098
-Kepler-1875 b,,10.5 Earths,15.201,2021,0.288 x Jupiter,Neptune-like,Transit,0.2039 AU,34.5 days,0.0
-Kepler-1859 b,,3.13 Earths,15.178,2021,1.583 x Earth,Super Earth,Transit,0.0394 AU,2.7 days,0.0
-Kepler-1852 b,,4.22 Earths,15.726,2021,1.886 x Earth,Super Earth,Transit,0.0762 AU,8 days,0.0
-Kepler-1847 b,,7.97 Earths,16.027,2021,0.245 x Jupiter,Neptune-like,Transit,0.0989 AU,11.1 days,0.0
-Kepler-1846 b,,3.76 Earths,14.412,2021,1.764 x Earth,Super Earth,Transit,0.1089 AU,14.8 days,0.0
-Kepler-1826 b,,2.78 Earths,16.83,2021,1.475 x Earth,Super Earth,Transit,0.0213 AU,1.6 days,0.0
-Kepler-1813 b,,2.58 Earths,15.639,2021,1.413 x Earth,Super Earth,Transit,0.0364 AU,2.8 days,0.0
-Kepler-1808 b,,9.4 Earths,15.424,2021,0.27 x Jupiter,Neptune-like,Transit,0.1467 AU,23.3 days,0.0
-Kepler-1785 b,,7.77 Earths,14.245,2021,0.241 x Jupiter,Neptune-like,Transit,0.1379 AU,19.6 days,0.0
-Kepler-1779 b,,9.44 Earths,15.132,2021,,,,,,
-Kepler-1776 b,,7.33 Earths,13.68,2021,0.233 x Jupiter,Neptune-like,Transit,0.2124 AU,35 days,0.0
-Kepler-1770 b,,8.45 Earths,14.418,2021,0.253 x Jupiter,Neptune-like,Transit,0.1261 AU,16.8 days,0.0
-Kepler-1767 b,,9.34 Earths,16.206,2021,0.269 x Jupiter,Neptune-like,Transit,0.2873 AU,59.7 days,0.0
-Kepler-1738 b,,8.37 Earths,15.649,2021,0.252 x Jupiter,Neptune-like,Transit,0.0781 AU,7.7 days,0.0
-Kepler-1600 c,,4.43 Earths,16.076,2021,1.942 x Earth,Super Earth,Transit,0.0689 AU,7.3 days,0.0
-Kepler-1315 c,,4.06 Earths,15.133,2021,1.844 x Earth,Super Earth,Transit,0.064 AU,6.6 days,0.0
-Kepler-1090 c,,10.9 Earths,15.31,2021,0.294 x Jupiter,Neptune-like,Transit,0.2274 AU,42.4 days,0.0
-Kepler-534 c,,2.02 Earths,13.387,2021,1.227 x Earth,Super Earth,Transit,0.0761 AU,7.4 days,0.0
-Kepler-1966 b,,1.39 Earths,15.222,2021,1.105 x Earth,Super Earth,Transit,0.0763 AU,8.6 days,0.0
-Kepler-1960 b,,2.26 Earths,15.181,2021,1.307 x Earth,Super Earth,Transit,0.0354 AU,2.3 days,0.0
-Kepler-1942 b,,5.13 Earths,14.91,2021,2.117 x Earth,Neptune-like,Transit,0.0516 AU,4.6 days,0.0
-Kepler-1933 b,,1.76 Earths,12.81,2021,1.18 x Earth,Super Earth,Transit,0.0561 AU,4.9 days,0.0
-Kepler-1929 b,,9.65 Earths,11.788,2021,0.274 x Jupiter,Neptune-like,Transit,0.2987 AU,59.4 days,0.0
-Kepler-1922 b,,5.86 Earths,15.388,2021,0.204 x Jupiter,Neptune-like,Transit,0.1077 AU,13.2 days,0.0
-Kepler-1914 b,,8.97 Earths,15.911,2021,0.263 x Jupiter,Neptune-like,Transit,0.1954 AU,30.8 days,0.0
-Kepler-1900 b,,3.27 Earths,15.502,2021,1.623 x Earth,Super Earth,Transit,0.042 AU,3 days,0.0
-Kepler-1899 b,,3.02 Earths,16.136,2021,1.551 x Earth,Super Earth,Transit,0.0457 AU,4.1 days,0.0
-Kepler-1866 b,,4.99 Earths,14.418,2021,2.082 x Earth,Super Earth,Transit,0.1016 AU,11.7 days,0.0
-Kepler-1865 b,,3.11 Earths,15.468,2021,1.577 x Earth,Super Earth,Transit,0.0344 AU,2.5 days,0.0
-Kepler-1863 b,,5.74 Earths,13.64,2021,0.202 x Jupiter,Neptune-like,Transit,0.2555 AU,45 days,0.0
-Kepler-1848 b,,2.57 Earths,13.887,2021,1.409 x Earth,Super Earth,Transit,0.0563 AU,5.6 days,0.0
-Kepler-1835 b,,12.2 Earths,15.615,2021,0.315 x Jupiter,Neptune-like,Transit,0.0997 AU,12 days,0.0
-Kepler-1818 b,,3.58 Earths,14.514,2021,1.714 x Earth,Super Earth,Transit,0.055 AU,4.6 days,0.0
-Kepler-1811 b,,14.1 Earths,15.327,2021,0.343 x Jupiter,Neptune-like,Transit,0.3462 AU,76.4 days,0.0
-Kepler-1809 b,,2.9 Earths,14.271,2021,1.513 x Earth,Super Earth,Transit,0.0435 AU,3.8 days,0.0
-Kepler-1807 b,,7.77 Earths,14.127,2021,0.241 x Jupiter,Neptune-like,Transit,0.0988 AU,10.9 days,0.0
-Kepler-1805 b,,3 Earths,15.536,2021,1.545 x Earth,Super Earth,Transit,0.0699 AU,8.8 days,0.0
-Kepler-1789 b,,8.4 Earths,14.449,2021,0.253 x Jupiter,Neptune-like,Transit,0.3543 AU,80.2 days,0.0
-Kepler-1781 b,,6.26 Earths,15.713,2021,0.212 x Jupiter,Neptune-like,Transit,0.0574 AU,4.9 days,0.0
-Kepler-1774 b,,10.2 Earths,14.02,2021,0.284 x Jupiter,Neptune-like,Transit,0.3096 AU,59.8 days,0.0
-Kepler-1768 b,,5.62 Earths,13.565,2021,2.233 x Earth,Neptune-like,Transit,0.1286 AU,15.1 days,0.0
-Kepler-1751 b,,3.98 Earths,15.455,2021,1.824 x Earth,Super Earth,Transit,0.0712 AU,7 days,0.0
-Kepler-1727 b,,10.2 Earths,15.751,2021,0.283 x Jupiter,Neptune-like,Transit,0.0796 AU,9 days,0.0
-Kepler-1311 d,,0.212 Jupiters,13.528,2021,0.862 x Jupiter,Gas Giant,Transit,0.6711 AU,197.5 days,0.0
-Kepler-1073 d,,2.82 Earths,14.749,2021,1.488 x Earth,Super Earth,Transit,0.0352 AU,2.5 days,0.0
-Kepler-495 c,,1.98 Earths,14.942,2021,1.219 x Earth,Super Earth,Transit,0.0614 AU,5.9 days,0.0
-Kepler-487 d,,8.12 Earths,14.882,2021,0.248 x Jupiter,Neptune-like,Transit,0.0337 AU,2.4 days,0.0
-Kepler-418 c,,23.7 Earths,14.824,2021,0.466 x Jupiter,Neptune-like,Transit,0.1024 AU,12.2 days,0.0
-Kepler-1964 b,,3.83 Earths,16.363,2021,1.781 x Earth,Super Earth,Transit,0.0322 AU,2.4 days,0.0
-Kepler-1951 b,,6 Earths,14.367,2021,,,,,,
-Kepler-1941 b,,7.51 Earths,14.943,2021,0.236 x Jupiter,Neptune-like,Transit,0.2054 AU,31.3 days,0.0
-Kepler-1923 b,,4.5 Earths,14.454,2021,1.96 x Earth,Super Earth,Transit,0.2846 AU,52.6 days,0.0
-Kepler-1918 b,,5.89 Earths,15.533,2021,0.205 x Jupiter,Neptune-like,Transit,0.2524 AU,47.1 days,0.0
-Kepler-1916 b,,7.35 Earths,15.779,2021,0.234 x Jupiter,Neptune-like,Transit,0.2053 AU,31.3 days,0.0
-Kepler-1913 b,,2.92 Earths,14.814,2021,1.519 x Earth,Super Earth,Transit,0.1209 AU,14.2 days,0.0
+Kepler-1705 b,1633.49,4.47 Earths,15.8,2014,2.03 x Earth,Neptune-like,Transit,0.08 AU,9 days,0.03
+HIP 86221 b,29.4898,0.71 Jupiters,9.25,2021,1.25 x Jupiter (estimate),Gas Giant,Radial Velocity,0.031 AU,2.2 days,0.09
+HIP 5763 b,31.9043,0.51 Jupiters,9.82,2021,1.27 x Jupiter (estimate),Gas Giant,Radial Velocity,0.17 AU,30 days,0.05
+HIP 34222 b,22.8386,0.83 Jupiters,10.14,2021,1.24 x Jupiter (estimate),Gas Giant,Radial Velocity,0.492 AU,160 days,0.3
+HD 99283 b,111.093,0.97 Jupiters,5.72916,2021,1.23 x Jupiter (estimate),Gas Giant,Radial Velocity,1.08 AU,310.4 days,0.2
+HD 79181 b,103.335,0.64 Jupiters,5.72,2021,1.26 x Jupiter (estimate),Gas Giant,Radial Velocity,0.9 AU,273.1 days,0.26
+HD 360 b,111.542,0.75 Jupiters,5.986,2021,1.25 x Jupiter (estimate),Gas Giant,Radial Velocity,0.98 AU,273.1 days,0.14
+HD 219139 b,104.935,0.78 Jupiters,5.84863,2021,1.24 x Jupiter (estimate),Gas Giant,Radial Velocity,0.94 AU,275.5 days,0.11
+HD 161178 b,107.188,0.57 Jupiters,5.88375,2021,1.26 x Jupiter (estimate),Gas Giant,Radial Velocity,0.85 AU,279.3 days,0.04
+HD 10975 b,116.506,0.45 Jupiters,5.94188,2021,1.28 x Jupiter (estimate),Gas Giant,Radial Velocity,0.95 AU,283.8 days,0.44
+Gamma Piscium b,41.3107,1.34 Jupiters,3.69252,2021,1.22 x Jupiter (estimate),Gas Giant,Radial Velocity,1.32 AU,1.5 years,0.2
+BD+60 1417 b,44.9543,15 Jupiters,9.374,2021,1.31 x Jupiter,Gas Giant,Imaging,1662 AU,67794.6 years,
+TOI-2109 b,262.041,5.02 Jupiters,10.217,2021,1.347 x Jupiter,Gas Giant,Transit,0.01791 AU,0.7 days,
+TOI-1842 b,223.465,0.28128 Jupiters,9.815,2021,1.102 x Jupiter,Gas Giant,Transit,0.1 AU,9.6 days,0.28
+HATS-77 b,436.176,1.374 Jupiters,16.195,2021,1.165 x Jupiter,Gas Giant,Transit,0.03607 AU,3.1 days,< 0.045
+HATS-76 b,385.689,2.629 Jupiters,16.68,2021,1.079 x Jupiter,Gas Giant,Transit,0.02658 AU,1.9 days,< 0.062
+HATS-75 b,194.964,0.491 Jupiters,15.689,2021,0.884 x Jupiter,Gas Giant,Transit,0.032742 AU,2.8 days,< 0.064
+HATS-74 A b,299.389,1.46 Jupiters,17.26,2021,1.032 x Jupiter,Gas Giant,Transit,0.02384 AU,1.7 days,< 0.044
+Kepler-633 c,680.54,5.89 Earths,13.812,2021,0.205 x Jupiter,Neptune-like,Transit,0.1618 AU,23.8 days,0
+Kepler-281 d,1745.45,29.5 Earths,15.931,2021,0.53 x Jupiter,Neptune-like,Transit,0.5456 AU,148.3 days,0
+Kepler-1940 b,798.595,3.01 Earths,15.674,2021,1.547 x Earth,Super Earth,Transit,0.0525 AU,5 days,0
+Kepler-1938 b,421.152,4 Earths,15.246,2021,1.828 x Earth,Super Earth,Transit,0.0938 AU,13.1 days,0
+Kepler-1934 b,428.514,0.702 Earths,12.874,2021,0.913 x Earth,Terrestrial,Transit,0.0245 AU,1.4 days,0
+Kepler-1907 c,292.111,1.63 Earths,13.989,2021,1.155 x Earth,Super Earth,Transit,0.1076 AU,14.9 days,0
+Kepler-1893 b,1050.72,3.55 Earths,15.152,2021,1.706 x Earth,Super Earth,Transit,0.0504 AU,4.2 days,0
+Kepler-1889 b,1395.13,8.98 Earths,15.715,2021,0.263 x Jupiter,Neptune-like,Transit,0.2082 AU,37.3 days,0
+Kepler-1887 b,1366.18,8.88 Earths,15.955,2021,0.261 x Jupiter,Neptune-like,Transit,0.1421 AU,19.9 days,0
+Kepler-1869 b,113.025,1.46 Earths,10.31,2021,1.12 x Earth,Super Earth,Transit,0.0791 AU,8.2 days,0
+Kepler-1841 b,631.7,2.82 Earths,14.855,2021,1.489 x Earth,Super Earth,Transit,0.1606 AU,25.9 days,0
+Kepler-1831 b,1053.49,4.54 Earths,15.158,2021,1.97 x Earth,Super Earth,Transit,0.0655 AU,5.8 days,0
+Kepler-1822 b,897.597,7.5 Earths,15.804,2021,0.236 x Jupiter,Neptune-like,Transit,0.1416 AU,22.1 days,0
+Kepler-1796 b,825.883,8 Earths,14.493,2021,0.245 x Jupiter,Neptune-like,Transit,0.1879 AU,29.5 days,0
+Kepler-1794 b,561.229,3.87 Earths,15.497,2021,1.794 x Earth,Super Earth,Transit,0.0821 AU,9.8 days,0
+Kepler-1743 b,538.807,3.18 Earths,12.062,2021,1.599 x Earth,Super Earth,Transit,0.0822 AU,7.6 days,0
+Kepler-1720 b,629.445,10.4 Earths,14.822,2021,0.287 x Jupiter,Neptune-like,Transit,0.1043 AU,12.7 days,0
+Kepler-1693 c,760.065,0.894 Earths,14.857,2021,0.977 x Earth,Terrestrial,Transit,0.0588 AU,5.4 days,0
+Kepler-1669 c,543.444,4.27 Earths,16.473,2021,1.901 x Earth,Super Earth,Transit,0.0228 AU,1.6 days,0
+Kepler-394 d,1058.72,2.86 Earths,14.948,2021,1.501 x Earth,Super Earth,Transit,0.0646 AU,5.6 days,0
+Kepler-1953 b,605.631,2.2 Earths,15.936,2021,1.286 x Earth,Super Earth,Transit,0.0607 AU,6.2 days,0
+Kepler-1925 b,1771.31,9.28 Earths,15.382,2021,0.268 x Jupiter,Neptune-like,Transit,0.2588 AU,46.7 days,0
+Kepler-1920 b,885.913,9.03 Earths,14.392,2021,0.264 x Jupiter,Neptune-like,Transit,0.2043 AU,30.3 days,0
+Kepler-1911 b,269.912,1.01 Earths,12.245,2021,1.011 x Earth,Super Earth,Transit,0.0636 AU,6 days,0
+Kepler-1896 b,1732.91,9.8 Earths,15.844,2021,0.277 x Jupiter,Neptune-like,Transit,0.2529 AU,44.9 days,0
+Kepler-1890 b,529.596,0.587 Earths,12.916,2021,0.869 x Earth,Terrestrial,Transit,0.0563 AU,4.8 days,0
+Kepler-1867 b,680.583,1.65 Earths,13.549,2021,1.16 x Earth,Super Earth,Transit,0.0872 AU,9.9 days,0
+Kepler-1854 b,423.348,7.21 Earths,14.381,2021,0.231 x Jupiter,Neptune-like,Transit,0.2119 AU,39.8 days,0
+Kepler-1851 b,1589.81,14.5 Earths,15.699,2021,0.348 x Jupiter,Neptune-like,Transit,0.1016 AU,12 days,0
+Kepler-1820 b,1425.39,9.9 Earths,15.759,2021,0.278 x Jupiter,Neptune-like,Transit,0.1964 AU,31 days,0
+Kepler-1814 b,726.346,6.21 Earths,15.814,2021,0.211 x Jupiter,Neptune-like,Transit,0.0371 AU,2.9 days,0
+Kepler-1804 b,434.456,3.18 Earths,14.679,2021,1.596 x Earth,Super Earth,Transit,0.1017 AU,12.3 days,0
+Kepler-1792 b,601.029,6.89 Earths,15.566,2021,0.225 x Jupiter,Neptune-like,Transit,0.0488 AU,4.2 days,0
+Kepler-1788 b,560.445,6.25 Earths,15.484,2021,0.212 x Jupiter,Neptune-like,Transit,0.0343 AU,2.8 days,0
+Kepler-1773 b,681.255,12.1 Earths,13.085,2021,0.313 x Jupiter,Neptune-like,Transit,0.2489 AU,40.8 days,0
+Kepler-1764 b,1542.48,18.8 Earths,14.91,2021,0.406 x Jupiter,Neptune-like,Transit,0.3512 AU,70.5 days,0
+Kepler-1760 b,1466.898,5.86 Earths,14.472,2021,0.204 x Jupiter,Neptune-like,Transit,0.2084 AU,38.3 days,0
+Kepler-1756 b,2625.427,2.77 Earths,15.736,2021,1.472 x Earth,Super Earth,Transit,0.0319 AU,2.4 days,0
+Kepler-1754 b,718.945,6.53 Earths,16.007,2021,0.218 x Jupiter,Neptune-like,Transit,0.0718 AU,8.2 days,0
+Kepler-1746 b,979.541,0.186 Jupiters,13.572,2021,0.797 x Jupiter,Gas Giant,Transit,0.9453 AU,321.2 days,0
+Kepler-1745 b,996.105,4.38 Earths,14.854,2021,1.929 x Earth,Super Earth,Transit,0.0408 AU,3 days,0
+Kepler-1734 b,1482.83,9.74 Earths,15.598,2021,0.276 x Jupiter,Neptune-like,Transit,0.0714 AU,6.8 days,0
+Kepler-1731 b,169.948,8.92 Earths,12.742,2021,0.262 x Jupiter,Neptune-like,Transit,0.1401 AU,21.8 days,0
+Kepler-1728 b,651.783,9.04 Earths,15.279,2021,0.264 x Jupiter,Neptune-like,Transit,0.0535 AU,4.8 days,0
+Kepler-1722 b,772.283,8.58 Earths,14.997,2021,0.256 x Jupiter,Neptune-like,Transit,0.0819 AU,9.2 days,0
+Kepler-1711 b,590.268,4.36 Earths,13.298,2021,1.923 x Earth,Super Earth,Transit,0.1463 AU,21.1 days,0
+Kepler-1130 c,249.343,0.422 Earths,12.509,2021,0.792 x Earth,Terrestrial,Transit,0.042356 AU,3.3 days,0
+Kepler-529 d,799.008,8.22 Earths,13.779,2021,0.249 x Jupiter,Neptune-like,Transit,0.2134 AU,35.9 days,0
+Kepler-511 c,651.999,16.5 Earths,12.711,2021,0.376 x Jupiter,Neptune-like,Transit,0.1722 AU,26.6 days,0
+Kepler-381 d,267.323,1.23 Earths,10.47,2021,1.067 x Earth,Super Earth,Transit,0.085 AU,8.3 days,0
+Kepler-1957 b,460.899,0.79 Earths,15.13,2021,,,,,,
+Kepler-1932 b,713.733,2.91 Earths,15.286,2021,1.515 x Earth,Super Earth,Transit,0.0123 AU,0.5 days,0
+Kepler-1915 b,1514.66,10.4 Earths,16.261,2021,0.287 x Jupiter,Neptune-like,Transit,0.114 AU,13.8 days,0
+Kepler-1901 b,1028.37,2.77 Earths,15.097,2021,1.474 x Earth,Super Earth,Transit,0.0453 AU,3.5 days,0
+Kepler-1898 b,360.921,0.76 Earths,13.387,2021,,,,,,
+Kepler-1873 b,820.957,3.28 Earths,15.889,2021,1.626 x Earth,Super Earth,Transit,0.0128 AU,0.6 days,0
+Kepler-1872 b,840.182,6.28 Earths,15.966,2021,0.213 x Jupiter,Neptune-like,Transit,0.0465 AU,3.8 days,0
+Kepler-1855 b,3830.011,1.96 Earths,16.556,2021,1.216 x Earth,Super Earth,Transit,0.0115 AU,0.7 days,0
+Kepler-1849 b,631.884,6.29 Earths,15.997,2021,0.213 x Jupiter,Neptune-like,Transit,0.2597 AU,57.3 days,0
+Kepler-1838 b,451.242,3.4 Earths,11.443,2021,1.66 x Earth,Super Earth,Transit,0.1096 AU,12.1 days,0
+Kepler-1837 b,1229.18,4.92 Earths,15.48,2021,2.067 x Earth,Super Earth,Transit,0.065 AU,5.9 days,0
+Kepler-1806 b,978.066,6.15 Earths,16.173,2021,0.21 x Jupiter,Neptune-like,Transit,0.0813 AU,9 days,0
+Kepler-1791 b,602.218,9.91 Earths,13.529,2021,0.278 x Jupiter,Neptune-like,Transit,0.0761 AU,7.7 days,0
+Kepler-1790 b,1070.17,10 Earths,14.179,2021,0.281 x Jupiter,Neptune-like,Transit,0.197 AU,31.6 days,0
+Kepler-1771 b,565.752,15.5 Earths,13.802,2021,0.362 x Jupiter,Neptune-like,Transit,0.3815 AU,88.6 days,0
+Kepler-1765 b,764.456,6.78 Earths,15.04,2021,0.223 x Jupiter,Neptune-like,Transit,0.0917 AU,10.4 days,0
+Kepler-1755 b,982.383,29.4 Earths,14.544,2021,0.528 x Jupiter,Neptune-like,Transit,0.1668 AU,24.8 days,0
+Kepler-1752 b,962.888,18.7 Earths,16.0249,2021,0.405 x Jupiter,Neptune-like,Transit,0.2698 AU,56.4 days,0
+Kepler-1739 b,783.666,6.48 Earths,14.899,2021,0.217 x Jupiter,Neptune-like,Transit,0.0697 AU,7.3 days,0
+Kepler-1729 b,576.181,14.4 Earths,15.676,2021,0.347 x Jupiter,Neptune-like,Transit,0.0418 AU,4.2 days,0
+Kepler-1714 b,409.46,10.7 Earths,11.041,2021,0.291 x Jupiter,Neptune-like,Transit,0.1047 AU,10.3 days,0
+Kepler-913 c,991.618,14.2 Earths,15.522,2021,0.344 x Jupiter,Neptune-like,Transit,0.0699 AU,5.9 days,0
+Kepler-799 c,1509.084,8.15 Earths,15.166,2021,0.248 x Jupiter,Neptune-like,Transit,0.1214 AU,15.2 days,0
+Kepler-324 e,501.574,4.81 Earths,14.222,2021,2.039 x Earth,Super Earth,Transit,0.1074 AU,14 days,0
+Kepler-1937 b,905.069,9.39 Earths,14.163,2021,0.27 x Jupiter,Neptune-like,Transit,0.0943 AU,9.7 days,0
+Kepler-1935 b,904.702,6.82 Earths,14.522,2021,0.223 x Jupiter,Neptune-like,Transit,0.0463 AU,4 days,0
+Kepler-1924 b,1910.77,7.53 Earths,15.084,2021,0.237 x Jupiter,Neptune-like,Transit,0.1216 AU,15.3 days,0
+Kepler-1895 b,984.187,5.14 Earths,15.787,2021,2.119 x Earth,Neptune-like,Transit,0.0615 AU,6.1 days,0
+Kepler-1891 b,596.24,2.93 Earths,14.412,2021,1.521 x Earth,Super Earth,Transit,0.0473 AU,4 days,0
+Kepler-1879 b,627.171,4.92 Earths,12.825,2021,,,,,,
+Kepler-1876 b,259.935,2.4 Earths,10.793,2021,0.853 x Earth,Super Earth,Transit,0.0758 AU,7 days,< 0.098
+Kepler-1875 b,1660.45,10.5 Earths,15.201,2021,0.288 x Jupiter,Neptune-like,Transit,0.2039 AU,34.5 days,0
+Kepler-1859 b,1331.25,3.13 Earths,15.178,2021,1.583 x Earth,Super Earth,Transit,0.0394 AU,2.7 days,0
+Kepler-1852 b,772.481,4.22 Earths,15.726,2021,1.886 x Earth,Super Earth,Transit,0.0762 AU,8 days,0
+Kepler-1847 b,1693.86,7.97 Earths,16.027,2021,0.245 x Jupiter,Neptune-like,Transit,0.0989 AU,11.1 days,0
+Kepler-1846 b,374.615,3.76 Earths,14.412,2021,1.764 x Earth,Super Earth,Transit,0.1089 AU,14.8 days,0
+Kepler-1826 b,336.952,2.78 Earths,16.83,2021,1.475 x Earth,Super Earth,Transit,0.0213 AU,1.6 days,0
+Kepler-1813 b,2510.73,2.58 Earths,15.639,2021,1.413 x Earth,Super Earth,Transit,0.0364 AU,2.8 days,0
+Kepler-1808 b,1022.01,9.4 Earths,15.424,2021,0.27 x Jupiter,Neptune-like,Transit,0.1467 AU,23.3 days,0
+Kepler-1785 b,745.74,7.77 Earths,14.245,2021,0.241 x Jupiter,Neptune-like,Transit,0.1379 AU,19.6 days,0
+Kepler-1779 b,908.501,9.44 Earths,15.132,2021,,,,,,
+Kepler-1776 b,690.336,7.33 Earths,13.68,2021,0.233 x Jupiter,Neptune-like,Transit,0.2124 AU,35 days,0
+Kepler-1770 b,582.942,8.45 Earths,14.418,2021,0.253 x Jupiter,Neptune-like,Transit,0.1261 AU,16.8 days,0
+Kepler-1767 b,820.506,9.34 Earths,16.206,2021,0.269 x Jupiter,Neptune-like,Transit,0.2873 AU,59.7 days,0
+Kepler-1738 b,1302.87,8.37 Earths,15.649,2021,0.252 x Jupiter,Neptune-like,Transit,0.0781 AU,7.7 days,0
+Kepler-1600 c,1030.81,4.43 Earths,16.076,2021,1.942 x Earth,Super Earth,Transit,0.0689 AU,7.3 days,0
+Kepler-1315 c,480.869,4.06 Earths,15.133,2021,1.844 x Earth,Super Earth,Transit,0.064 AU,6.6 days,0
+Kepler-1090 c,858.77,10.9 Earths,15.31,2021,0.294 x Jupiter,Neptune-like,Transit,0.2274 AU,42.4 days,0
+Kepler-534 c,570.659,2.02 Earths,13.387,2021,1.227 x Earth,Super Earth,Transit,0.0761 AU,7.4 days,0
+Kepler-1966 b,484.601,1.39 Earths,15.222,2021,1.105 x Earth,Super Earth,Transit,0.0763 AU,8.6 days,0
+Kepler-1960 b,1527.56,2.26 Earths,15.181,2021,1.307 x Earth,Super Earth,Transit,0.0354 AU,2.3 days,0
+Kepler-1942 b,842.492,5.13 Earths,14.91,2021,2.117 x Earth,Neptune-like,Transit,0.0516 AU,4.6 days,0
+Kepler-1933 b,328.007,1.76 Earths,12.81,2021,1.18 x Earth,Super Earth,Transit,0.0561 AU,4.9 days,0
+Kepler-1929 b,508.201,9.65 Earths,11.788,2021,0.274 x Jupiter,Neptune-like,Transit,0.2987 AU,59.4 days,0
+Kepler-1922 b,1344.29,5.86 Earths,15.388,2021,0.204 x Jupiter,Neptune-like,Transit,0.1077 AU,13.2 days,0
+Kepler-1914 b,1621.56,8.97 Earths,15.911,2021,0.263 x Jupiter,Neptune-like,Transit,0.1954 AU,30.8 days,0
+Kepler-1900 b,1540.43,3.27 Earths,15.502,2021,1.623 x Earth,Super Earth,Transit,0.042 AU,3 days,0
+Kepler-1899 b,711.509,3.02 Earths,16.136,2021,1.551 x Earth,Super Earth,Transit,0.0457 AU,4.1 days,0
+Kepler-1866 b,976.737,4.99 Earths,14.418,2021,2.082 x Earth,Super Earth,Transit,0.1016 AU,11.7 days,0
+Kepler-1865 b,922.255,3.11 Earths,15.468,2021,1.577 x Earth,Super Earth,Transit,0.0344 AU,2.5 days,0
+Kepler-1863 b,865.546,5.74 Earths,13.64,2021,0.202 x Jupiter,Neptune-like,Transit,0.2555 AU,45 days,0
+Kepler-1848 b,309.696,2.57 Earths,13.887,2021,1.409 x Earth,Super Earth,Transit,0.0563 AU,5.6 days,0
+Kepler-1835 b,1404.38,12.2 Earths,15.615,2021,0.315 x Jupiter,Neptune-like,Transit,0.0997 AU,12 days,0
+Kepler-1818 b,1034.59,3.58 Earths,14.514,2021,1.714 x Earth,Super Earth,Transit,0.055 AU,4.6 days,0
+Kepler-1811 b,1390.56,14.1 Earths,15.327,2021,0.343 x Jupiter,Neptune-like,Transit,0.3462 AU,76.4 days,0
+Kepler-1809 b,409.602,2.9 Earths,14.271,2021,1.513 x Earth,Super Earth,Transit,0.0435 AU,3.8 days,0
+Kepler-1807 b,1299.32,7.77 Earths,14.127,2021,0.241 x Jupiter,Neptune-like,Transit,0.0988 AU,10.9 days,0
+Kepler-1805 b,221.639,3 Earths,15.536,2021,1.545 x Earth,Super Earth,Transit,0.0699 AU,8.8 days,0
+Kepler-1789 b,611.461,8.4 Earths,14.449,2021,0.253 x Jupiter,Neptune-like,Transit,0.3543 AU,80.2 days,0
+Kepler-1781 b,962.63,6.26 Earths,15.713,2021,0.212 x Jupiter,Neptune-like,Transit,0.0574 AU,4.9 days,0
+Kepler-1774 b,816.592,10.2 Earths,14.02,2021,0.284 x Jupiter,Neptune-like,Transit,0.3096 AU,59.8 days,0
+Kepler-1768 b,632.766,5.62 Earths,13.565,2021,2.233 x Earth,Neptune-like,Transit,0.1286 AU,15.1 days,0
+Kepler-1751 b,1291.47,3.98 Earths,15.455,2021,1.824 x Earth,Super Earth,Transit,0.0712 AU,7 days,0
+Kepler-1727 b,894.187,10.2 Earths,15.751,2021,0.283 x Jupiter,Neptune-like,Transit,0.0796 AU,9 days,0
+Kepler-1311 d,866.331,0.212 Jupiters,13.528,2021,0.862 x Jupiter,Gas Giant,Transit,0.6711 AU,197.5 days,0
+Kepler-1073 d,809.897,2.82 Earths,14.749,2021,1.488 x Earth,Super Earth,Transit,0.0352 AU,2.5 days,0
+Kepler-495 c,658.924,1.98 Earths,14.942,2021,1.219 x Earth,Super Earth,Transit,0.0614 AU,5.9 days,0
+Kepler-487 d,872.343,8.12 Earths,14.882,2021,0.248 x Jupiter,Neptune-like,Transit,0.0337 AU,2.4 days,0
+Kepler-418 c,1002.53,23.7 Earths,14.824,2021,0.466 x Jupiter,Neptune-like,Transit,0.1024 AU,12.2 days,0
+Kepler-1964 b,3504.29,3.83 Earths,16.363,2021,1.781 x Earth,Super Earth,Transit,0.0322 AU,2.4 days,0
+Kepler-1951 b,1277.32,6 Earths,14.367,2021,,,,,,
+Kepler-1941 b,1494.39,7.51 Earths,14.943,2021,0.236 x Jupiter,Neptune-like,Transit,0.2054 AU,31.3 days,0

@@ -1,0 +1,151 @@
+Planet Name,Parsecs from Earth,Planet Mass,Stellar Magnitude,Discovery Date,Planet Radius,Planet Type,Discovery Method,Orbital Radius,Orbital Period,Eccentricity
+TYC 8998-760-1 b,94.6177,14 Jupiters,11.124,2020,1.1 x Jupiter (estimate),Gas Giant,Imaging,162 AU,2063.1 years,
+TOI-1130 c,58.2609,1.05717 Jupiters,11.595,2020,1.16 x Jupiter,Gas Giant,Transit,0.0731 AU,8.4 days,0.04
+TOI-1130 b,58.2609,19.8 Earths,11.595,2020,0.327 x Jupiter,Neptune-like,Transit,0.0453 AU,4.1 days,0.05
+OGLE-2016-BLG-1227L b,Unknown,0.79 Jupiters,Unknown,2020,1.24 x Jupiter (estimate),Gas Giant,Microlensing,3.4 AU,19.8 years,
+NGTS-10 b,324.6986504,2.162 Jupiters,14.506,2020,1.205 x Jupiter,Gas Giant,Transit,0.0143 AU,0.8 days,0
+KMT-2016-BLG-1836L b,7100,2.2 Jupiters,Unknown,2019,1.19 x Jupiter (estimate),Gas Giant,Microlensing,3.5 AU,9.4 years,
+OGLE-2013-BLG-0911L b,3220,9.51 Jupiters,26.42,2019,1.12 x Jupiter (estimate),Gas Giant,Microlensing,0.39 AU,165.2 days,
+MASCARA-4 b,170.696,3.1 Jupiters,8.191,2020,1.53 x Jupiter,Gas Giant,Transit,0.047 AU,2.8 days,0
+LHS 1815 b,29.8424,1.58 Earths,12.167,2020,1.088 x Earth,Super Earth,Transit,0.0404 AU,3.8 days,0
+TOI-132 b,163.678,22.4 Earths,11.197,2020,0.305 x Jupiter,Neptune-like,Transit,0.026 AU,2.1 days,0.06
+Kepler-1661 b,410.607,17 Earths,14.357,2020,0.345 x Jupiter,Neptune-like,Transit,0.633 AU,175.1 days,0.06
+HATS-72 b,127.589,39.85588 Earths,12.324,2020,0.722 x Jupiter,Gas Giant,Transit,0.066517 AU,7.3 days,< 0.013
+HATS-49 b,324.413,0.353 Jupiters,14.988,2020,0.765 x Jupiter,Gas Giant,Transit,0.04515 AU,4.1 days,< 0.071
+HATS-48 A b,263.609,0.243 Jupiters,14.226,2020,0.8 x Jupiter,Gas Giant,Transit,0.03769 AU,3.1 days,< 0.162
+HATS-47 b,300.67,0.369 Jupiters,14.602,2020,1.117 x Jupiter,Gas Giant,Transit,0.04269 AU,3.9 days,< 0.088
+GJ 1061 d,3.67278,1.64 Earths,12.7,2020,1.16 x Earth (estimate),Super Earth,Radial Velocity,0.054 AU,13 days,< 0.53
+GJ 1061 c,3.67278,1.74 Earths,12.7,2020,1.18 x Earth (estimate),Super Earth,Radial Velocity,0.035 AU,6.7 days,< 0.29
+GJ 1061 b,3.67278,1.37 Earths,12.7,2020,1.1 x Earth (estimate),Super Earth,Radial Velocity,0.021 AU,3.2 days,< 0.31
+EPIC 249893012 d,321.296,10.18 Earths,11.429,2020,0.352 x Jupiter,Neptune-like,Transit,0.22 AU,35.7 days,0.15
+EPIC 249893012 c,321.296,14.67 Earths,11.429,2020,0.327 x Jupiter,Neptune-like,Transit,0.13 AU,15.6 days,0.07
+EPIC 249893012 b,321.296,8.75 Earths,11.429,2020,1.95 x Earth,Super Earth,Transit,0.047 AU,3.6 days,0.06
+TOI-125 d,111.059,13.6 Earths,11.023,2020,0.261 x Jupiter,Neptune-like,Transit,0.137 AU,20 days,0.17
+L 168-9 b,25.1496,4.07 Earths,11.005,2020,1.63 x Earth,Super Earth,Transit,0.0208 AU,1.4 days,0
+GJ 433 d,9.06456,5.223 Earths,9.81,2020,2.14 x Earth (estimate),Neptune-like,Radial Velocity,0.178 AU,36.1 days,0.07
+GJ 3082 b,16.6186,8.2 Earths,11.041,2020,0.249 x Jupiter (estimate),Neptune-like,Radial Velocity,0.079 AU,11.9 days,0.22
+GJ 229 A c,5.75624,8.58137 Earths,8.15,2020,0.256 x Jupiter (estimate),Neptune-like,Radial Velocity,0.384 AU,121.9 days,0.37
+GJ 180 d,11.9407,7.56 Earths,10.914,2020,0.237 x Jupiter (estimate),Neptune-like,Radial Velocity,0.309 AU,106.3 days,0.14
+GJ 1252 b,20.373,1.32 Earths,12.68,2020,1.193 x Earth,Super Earth,Transit,0.00915 AU,0.5 days,0
+TOI-216.02,177.945,18.75188 Earths,12.324,2019,0.714 x Jupiter,Neptune-like,Transit,0.1293 AU,17.2 days,0.16
+TOI-216.01,177.945,0.56 Jupiters,12.324,2019,0.901 x Jupiter,Gas Giant,Transit,0.2069 AU,34.5 days,0
+TOI-150.01,336.267,2.51 Jupiters,11.39,2019,1.255 x Jupiter,Gas Giant,Transit,0.07037 AU,5.9 days,0.26
+DMPP-3 A b,45.23,2.58 Earths,9.066,2019,1.41 x Earth (estimate),Super Earth,Radial Velocity,0.0662 AU,6.7 days,0.14
+TOI-270 d,22.4793,4.78 Earths,12.603,2019,2.133 x Earth,Neptune-like,Transit,0.0721 AU,11.4 days,0.03
+TOI-270 c,22.4793,6.15 Earths,12.603,2019,0.21 x Jupiter,Neptune-like,Transit,0.04526 AU,5.7 days,0.03
+TOI-270 b,22.4793,1.58 Earths,12.603,2019,1.206 x Earth,Super Earth,Transit,0.03197 AU,3.4 days,0.03
+TOI-172 b,342.831,5.42 Jupiters,11.299,2019,0.965 x Jupiter,Gas Giant,Transit,0.0914 AU,9.5 days,0.38
+TOI-163 b,411.719,1.22 Jupiters,11.467,2019,,,,,,
+TOI-125 c,111.059,6.63 Earths,11.023,2019,0.246 x Jupiter,Neptune-like,Transit,0.0814 AU,9.2 days,0.07
+TOI-125 b,111.059,9.5 Earths,11.023,2019,0.243 x Jupiter,Neptune-like,Transit,0.05186 AU,4.7 days,0.19
+TOI-813 b,263.145,36.4 Earths,10.358,2020,0.599 x Jupiter,Neptune-like,Transit,0.423 AU,83.9 days,0
+HD 80653 b,109.86,5.72 Earths,9.452,2020,1.613 x Earth,Super Earth,Transit,0.01661 AU,0.7 days,0
+DMPP-2 b,137.94,0.437 Jupiters,8.57,2019,1.28 x Jupiter (estimate),Gas Giant,Radial Velocity,0.0664 AU,5.2 days,0.08
+DMPP-1 e,62.5388,4.13 Earths,7.98,2019,1.86 x Earth (estimate),Super Earth,Radial Velocity,0.0651 AU,5.5 days,< 0.07
+DMPP-1 d,62.5388,3.35 Earths,7.98,2019,1.65 x Earth (estimate),Super Earth,Radial Velocity,0.0422 AU,2.9 days,< 0.07
+DMPP-1 c,62.5388,9.6 Earths,7.98,2019,0.273 x Jupiter (estimate),Neptune-like,Radial Velocity,0.0733 AU,6.6 days,< 0.057
+DMPP-1 b,62.5388,24.27 Earths,7.98,2019,0.472 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1462 AU,18.6 days,< 0.083
+XO-7 b,234.149,0.709 Jupiters,10.521,2019,1.373 x Jupiter,Gas Giant,Transit,0.04421 AU,2.9 days,0.04
+G 9-40 b,27.9276,11.7 Earths,13.821,2019,2.025 x Earth,Neptune-like,Transit,0.0385 AU,5.7 days,0
+USco1621 b,137.901,16 Jupiters,15.543,2019,1.09 x Jupiter (estimate),Gas Giant,Imaging,2880 AU,257742.3 years,
+USco1556 b,140.635,15 Jupiters,15.36,2019,1.09 x Jupiter (estimate),Gas Giant,Imaging,3500 AU,360656.2 years,
+WASP-18 c,123.483,0.17368 Jupiters,9.28,2019,0.765 x Jupiter (estimate),Gas Giant,Transit Timing Variations,0.035 AU,2.2 days,< 0.015
+WASP-126 c,216.526,0.20199 Jupiters,10.994,2019,0.837 x Jupiter (estimate),Gas Giant,Transit Timing Variations,Unknown,7.6 days,< 0.05
+HD 213885 c,48.0883,19.95 Earths,7.95,2019,0.42 x Jupiter (estimate),Neptune-like,Radial Velocity,0.056798 AU,4.8 days,0
+HD 213885 b,48.0883,8.83 Earths,7.95,2019,,,,,,
+Qatar-6 b,100.848,0.668 Jupiters,11.496,2017,,,,,,
+PSR B0329+54 b,504.9331206,1.97 Earths,20.8671,2017,,,,,,
+NGTS-9 b,609.128,2.9 Jupiters,12.868,2019,,,,,,
+NGTS-8 b,428.976,0.93 Jupiters,13.69,2019,,,,,,
+HD 233832 b,58.742,1.78 Jupiters,10.15,2018,,,,,,
+HD 220197 b,64.411,0.2 Jupiters,8.92,2018,,,,,,
+HD 196885 A b,34.1692,2.58 Jupiters,6.39677,2007,,,,,,
+Kepler-448 c,399.398,22 Jupiters,11.51,2017,,,,,,
+LP 791-18 c,26.4927,7.1 Earths,16.91,2019,,,,,,
+LP 791-18 b,26.4927,1.94 Earths,16.91,2019,,,,,,
+HD 125390 b,153.647,27.204 Jupiters,8.21,2019,,,,,,
+MOA-bin-29 b,7120,0.6 Jupiters,44.61,2019,,,,,,
+KMT-2018-BLG-1990L b,967,0.348 Jupiters,Unknown,2019,,,,,,
+V1298 Tauri e,108.199,1.01 Jupiters,10.115,2019,,,,,,
+V1298 Tauri d,108.199,0.31 Jupiters,10.115,2019,,,,,,
+V1298 Tauri c,108.199,0.24 Jupiters,10.115,2019,,,,,,
+OGLE-2015-BLG-1649L b,4230,2.54 Jupiters,Unknown,2019,,,,,,
+NY Virginis c,544.024,5.54 Jupiters,13.496,2019,,,,,,
+Epsilon Indi A b,3.6384,6.31 Jupiters,4.674,2019,,,,,,
+HU Aquarii AB c,192.1980787,4.5 Jupiters,16.183,2011,,,,,,
+HU Aquarii AB b,192.1980787,5.9 Jupiters,16.183,2011,,,,,,
+HD 97048 b,183.857,2.5 Jupiters,8.44,2019,,,,,,
+7 Canis Majoris c,19.8101,0.87 Jupiters,3.95,2019,,,,,,
+GJ 15 A c,3.56228,36 Earths,8.09,2018,,,,,,
+GJ 15 A b,3.56228,3.03 Earths,8.09,2014,,,,,,
+WASP-192 b,508.885,2.3 Jupiters,12.678,2019,,,,,,
+WASP-185 b,279.35,0.98 Jupiters,11.101,2019,,,,,,
+WASP-184 b,663.231,0.57 Jupiters,12.771,2019,,,,,,
+WASP-178 b,427.678,1.66 Jupiters,9.946,2019,,,,,,
+GJ 682 c,5.00671,8.7 Earths,10.94,2014,,,,,,
+GJ 682 b,5.00671,4.4 Earths,10.94,2014,,,,,,
+GJ 433 c,9.06456,32.422 Earths,9.81,2014,,,,,,
+GJ 422 b,12.6631,11.07 Earths,11.66,2014,,,,,,
+GJ 27.1 b,23.6062,13 Earths,11.45,2014,,,,,,
+GJ 229 b,5.75624,14.93794 Earths,8.15,2014,,,,,,
+GJ 180 c,11.9407,6.4 Earths,10.914,2014,,,,,,
+GJ 180 b,11.9407,6.49 Earths,10.914,2014,,,,,,
+GJ 160.2 b,25.8557,10.2 Earths,9.7,2014,,,,,,
+GJ 3512 b,9.48637,0.46 Jupiters,15.18,2019,,,,,,
+WASP-180 A b,253.985,0.9 Jupiters,10.655,2019,,,,,,
+NGTS-6 b,308.262,1.339 Jupiters,14.237,2019,,,,,,
+WASP-182 b,327.602,0.148 Jupiters,11.98,2019,,,,,,
+WASP-175 b,539.36,0.99 Jupiters,12.959,2019,,,,,,
+WASP-171 b,757.84,1.084 Jupiters,12.612,2019,,,,,,
+WASP-169 b,627.066,0.561 Jupiters,12.167,2019,,,,,,
+OGLE-2018-BLG-0740L b,3200,4.8 Jupiters,18.21,2019,,,,,,
+KELT-24 b,96.5173,4.59 Jupiters,8.34,2019,,,,,,
+K2-308 b,1314.53,0.222 Jupiters,15.072,2019,,,,,,
+OGLE-2018-BLG-1011L c,7100,2.8 Jupiters,Unknown,2019,,,,,,
+OGLE-2018-BLG-1011L b,7100,1.8 Jupiters,Unknown,2019,,,,,,
+OGLE-2016-BLG-1067L b,3730,0.43 Jupiters,Unknown,2019,,,,,,
+KMT-2016-BLG-0212L b,6300,18 Jupiters,Unknown,2018,,,,,,
+HR 5183 b,31.4607,3.31 Jupiters,6.33432,2019,,,,,,
+Beta Pictoris c,19.7442,10.139 Jupiters,3.85,2019,,,,,,
+HATS-58 A b,403.591,1.03 Jupiters,11.572,2019,,,,,,
+HATS-57 b,279.485,3.147 Jupiters,12.333,2019,,,,,,
+HATS-56 b,564.409,0.602 Jupiters,11.477,2019,,,,,,
+LTT 1445 A b,6.86929,2.73 Earths,10.59,2019,,,,,,
+K2-43 c,182.536,6.44 Earths,15.748,2019,,,,,,
+K2-198 d,110.567,6.52 Earths,10.971,2019,,,,,,
+K2-198 c,110.567,2.61 Earths,10.971,2019,,,,,,
+HATS-55 b,609.838,0.921 Jupiters,13.525,2019,,,,,,
+HATS-54 b,748.585,0.753 Jupiters,13.937,2019,,,,,,
+HAT-P-70 b,330.739,6.78 Jupiters,9.47,2019,,,,,,
+HAT-P-69 b,341.263,3.58 Jupiters,9.774,2019,,,,,,
+K2-146 c,79.3002,7.49 Earths,16.7,2019,,,,,,
+GJ 357 d,9.44181,6.1 Earths,10.91,2019,,,,,,
+GJ 357 c,9.44181,3.4 Earths,10.91,2019,,,,,,
+GJ 357 b,9.44181,1.84 Earths,10.91,2019,,,,,,
+KMT-2017-BLG-0165L b,4530,34 Earths,Unknown,2018,,,,,,
+EPIC 212737443 c,336.25,7.7 Earths,14.81,2019,,,,,,
+EPIC 212737443 b,336.25,7.2 Earths,14.81,2019,,,,,,
+WASP-166 b,114.173,32.10083 Earths,9.351,2019,,,,,,
+HR 858 d,31.964,5.32 Earths,6.38,2019,,,,,,
+HR 858 c,31.964,4.42 Earths,6.38,2019,,,,,,
+HR 858 b,31.964,5 Earths,6.38,2019,,,,,,
+EPIC 248847494 b,551.886,13 Jupiters,12.353,2018,,,,,,
+Kepler-82 f,904.326,20.9 Earths,15.131,2019,,,,,,
+OGLE-2015-BLG-1670L b,6700,17.9 Earths,Unknown,2019,,,,,,
+Kepler-411 e,153.676,10.8 Earths,12.448,2018,,,,,,
+Kepler-411 d,153.676,15.2 Earths,12.448,2018,,,,,,
+HIP 79098 AB b,145.798,20.5 Jupiters,5.86,2019,,,,,,
+DE Canum Venaticorum b,30.5225,12.0293 Jupiters,12.956,2018,,,,,,
+OGLE-2018-BLG-0596L b,5650,13.93 Earths,Unknown,2019,,,,,,
+DS Tucanae A b,44.0622,1.3 Jupiters,8.17,2019,,,,,,
+V1298 Tauri b,108.199,0.64 Jupiters,10.115,2019,,,,,,
+WASP-87 b,298.392,2.18 Jupiters,10.727,2016,,,,,,
+Teegarden’s Star c,3.83078,1.05 Earths,15.13,2019,,,,,,
+Teegarden’s Star b,3.83078,1.16 Earths,15.13,2019,,,,,,
+HD 126525 b,37.6506,0.237 Jupiters,7.85,2018,,,,,,
+PDS 70 c,113.064,2 Jupiters,12.032,2019,,,,,,
+L 98-59 d,10.6194,1.94 Earths,11.685,2019,,,,,,
+L 98-59 c,10.6194,2.22 Earths,11.685,2019,,,,,,
+L 98-59 b,10.6194,0.4 Earths,11.685,2019,,,,,,
+Kepler-65 e,303.728,0.82 Jupiters,10.922,2019,,,,,,
+KELT-23 A b,126.261,0.938 Jupiters,10.308,2019,,,,,,

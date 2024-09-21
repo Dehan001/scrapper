@@ -1,151 +1,151 @@
 Planet Name,Parsecs from Earth,Planet Mass,Stellar Magnitude,Discovery Date,Planet Radius,Planet Type,Discovery Method,Orbital Radius,Orbital Period,Eccentricity
-NSVS 14256825 b,,14.15 Jupiters,13.296,2019,1.1 x Jupiter (estimate),Gas Giant,Eclipse Timing Variations,3.12 AU,8.8 years,0.12
-LSPM J2116+0234 b,,13.3 Earths,11.961,2019,0.331 x Jupiter (estimate),Neptune-like,Radial Velocity,0.0876 AU,14.4 days,0.18
-HD 180617 b,,12.214 Earths,9.12,2018,0.315 x Jupiter (estimate),Neptune-like,Radial Velocity,0.343 AU,105.9 days,0.1
-EPIC 220554210 c,,3.19 Earths,14.21,2019,1.6 x Earth,Super Earth,Transit,Unknown,0.7 days,
-EPIC 212587672 b,,2.13 Earths,12.488,2019,1.26 x Earth,Super Earth,Transit,Unknown,15.3 days,
-EPIC 212499991 b,,3.19 Earths,13.672,2019,1.6 x Earth,Super Earth,Transit,Unknown,34.9 days,
-EPIC 212424622 b,,5.35 Earths,13.441,2019,2.17 x Earth,Neptune-like,Transit,Unknown,18.1 days,
-EPIC 212297394 b,,2.79 Earths,14.611,2019,1.48 x Earth,Super Earth,Transit,Unknown,2.3 days,
-EPIC 206317286 b,,0.84 Earths,14.005,2019,0.96 x Earth,Terrestrial,Transit,Unknown,1.6 days,
-EPIC 206215704 b,,0.972 Earths,17.83,2019,1.0 x Earth,Terrestrial,Transit,Unknown,2.3 days,
-EPIC 206042996 b,,3.53 Earths,16.59,2019,1.7 x Earth,Super Earth,Transit,Unknown,5.3 days,
-EPIC 206032309 b,,1.01 Earths,17.89,2019,1.01 x Earth,Super Earth,Transit,Unknown,2.9 days,
-EPIC 206024342 b,,3.53 Earths,13.096,2019,1.7 x Earth,Super Earth,Transit,Unknown,4.5 days,
-EPIC 205950854 c,,2.27 Earths,12.365,2019,1.31 x Earth,Super Earth,Transit,Unknown,8.1 days,
-EPIC 201841433 b,,1.12 Earths,14.983,2019,1.04 x Earth,Super Earth,Transit,0.035 AU,4.2 days,
-EPIC 201833600 c,,0.972 Earths,14.705,2019,1.0 x Earth,Terrestrial,Transit,Unknown,4 days,
-EPIC 201754305 d,,1.08 Earths,14.668,2019,1.03 x Earth,Super Earth,Transit,Unknown,2.7 days,
-EPIC 201615463 c,,1.98 Earths,12.081,2019,1.22 x Earth,Super Earth,Transit,Unknown,3.8 days,
-EPIC 201497682 b,,0.26 Earths,13.948,2019,0.692 x Earth,Terrestrial,Transit,Unknown,2.1 days,
-EPIC 201238110 b,,4.16 Earths,16.014,2019,1.87 x Earth,Super Earth,Transit,Unknown,28.2 days,
-K2-295 b,,0.335 Jupiters,13.8941,2018,,,,,,
-K2-133 e,,3.64 Earths,14.073,2019,1.73 x Earth,Super Earth,Transit,0.1346 AU,26.6 days,
-HD 15337 c,,8.11 Earths,9.1,2019,2.39 x Earth,Super Earth,Transit,0.1268 AU,17.2 days,0.05
-HD 15337 b,,7.51 Earths,9.1,2019,1.64 x Earth,Super Earth,Transit,0.0522 AU,4.8 days,0.09
-NGTS-4 b,,20.6 Earths,13.138,2019,0.284 x Jupiter,Neptune-like,Transit,0.019 AU,1.3 days,0.0
-HIP 71135 b,,18.8 Earths,10.53,2019,,,,,,
-HIP 54373 c,,12.44 Earths,10.38,2019,0.318 x Jupiter (estimate),Neptune-like,Radial Velocity,0.099 AU,15.1 days,0.2
-HD 24085 b,,11.8 Earths,7.57,2019,0.309 x Jupiter (estimate),Neptune-like,Radial Velocity,0.034 AU,2 days,0.22
-NGTS-5 b,,0.229 Jupiters,13.789,2019,1.136 x Jupiter,Gas Giant,Transit,0.0382 AU,3.4 days,0.0
-HIP 54373 b,,8.62 Earths,10.38,2019,0.256 x Jupiter (estimate),Neptune-like,Radial Velocity,0.063 AU,7.8 days,0.2
-HIP 35173 b,,12.7 Earths,9.01,2019,0.322 x Jupiter (estimate),Neptune-like,Radial Velocity,0.217 AU,41.5 days,0.16
-HD 8326 b,,0.20955 Jupiters,8.76,2019,0.855 x Jupiter (estimate),Gas Giant,Radial Velocity,0.533 AU,159 days,0.2
-HD 64114 b,,17.8 Earths,7.71,2019,0.393 x Jupiter (estimate),Neptune-like,Radial Velocity,0.246 AU,45.8 days,0.12
-HD 39855 b,,8.5 Earths,7.51,2019,0.254 x Jupiter (estimate),Neptune-like,Radial Velocity,0.041 AU,3.2 days,0.14
-HD 21411 b,,0.20734 Jupiters,7.88,2019,0.85 x Jupiter (estimate),Gas Giant,Radial Velocity,0.362 AU,84.3 days,0.4
-HD 211970 b,,13 Earths,10.24,2019,0.327 x Jupiter (estimate),Neptune-like,Radial Velocity,0.143 AU,25.2 days,0.15
-HD 210193 b,,0.4817 Jupiters,7.83,2019,1.27 x Jupiter (estimate),Gas Giant,Radial Velocity,1.487 AU,1.8 years,0.24
-HD 206255 b,,34.2 Earths,7.62,2019,0.577 x Jupiter (estimate),Neptune-like,Radial Velocity,0.461 AU,96 days,0.23
-HD 103949 b,,11.2 Earths,8.7,2019,0.299 x Jupiter (estimate),Neptune-like,Radial Velocity,0.439 AU,120.9 days,0.19
-HD 102843 b,,0.35837 Jupiters,9.26,2019,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,4.074 AU,8.5 years,0.11
-HD 221420 b,,22 Jupiters,5.82,2019,1.07 x Jupiter (estimate),Gas Giant,Radial Velocity,10.1 AU,27.6 years,0.12
-Qatar-9 b,,1.19 Jupiters,14.023,2019,1.009 x Jupiter,Gas Giant,Transit,0.0234 AU,1.5 days,0.0
-Qatar-8 b,,0.371 Jupiters,11.71,2019,1.285 x Jupiter,Gas Giant,Transit,0.0474 AU,3.7 days,0.0
-Qatar-10 b,,0.736 Jupiters,12.868,2019,1.543 x Jupiter,Gas Giant,Transit,0.0286 AU,1.6 days,0.0
-Kepler-47 d,,19.02 Earths,15.31,2019,0.628 x Jupiter,Neptune-like,Transit,0.6992 AU,187.4 days,0.02
-HD 21749 c,,3.7 Earths,8.08,2019,0.892 x Earth,Super Earth,Transit,0.0695 AU,7.8 days,
-LHS 3844 b,,2.25 Earths,15.24,2019,1.303 x Earth,Super Earth,Transit,0.00622 AU,0.5 days,
-LHS 1140 c,,1.91 Earths,14.15,2018,1.272 x Earth,Super Earth,Transit,0.027 AU,3.8 days,< 0.05
-HD 94834 b,,1.26 Jupiters,7.6,2018,1.22 x Jupiter (estimate),Gas Giant,Radial Velocity,2.74 AU,4.3 years,0.14
-HD 92788 c,,3.67 Jupiters,7.31637,2019,1.16 x Jupiter (estimate),Gas Giant,Radial Velocity,10.5 AU,31.8 years,0.46
-HD 72490 b,,1.768 Jupiters,7.82,2018,1.2 x Jupiter (estimate),Gas Giant,Radial Velocity,1.88 AU,2.4 years,0.12
-HD 50499 c,,2.93 Jupiters,7.21,2019,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,9.02 AU,23.6 years,0.0
-HD 4917 b,,1.615 Jupiters,8.03,2018,1.21 x Jupiter (estimate),Gas Giant,Radial Velocity,1.167 AU,400.5 days,0.07
-HD 25015 b,,9.077 Jupiters,8.87,2019,1.12 x Jupiter (estimate),Gas Giant,Radial Velocity,6.248 AU,16.8 years,0.34
-HD 23472 c,,3.41 Earths,9.73,2019,1.87 x Earth,Super Earth,Transit,0.1646 AU,29.8 days,0.06
-HD 23472 b,,8.32 Earths,9.73,2019,2.0 x Earth,Super Earth,Transit,0.1162 AU,17.7 days,0.07
-HD 221416 b,,0.19 Jupiters,8.15,2019,0.836 x Jupiter,Gas Giant,Transit,0.1228 AU,14.3 days,0.12
-HD 202696 c,,1.864 Jupiters,8.23,2019,Unknown,Gas Giant,Radial Velocity,2.342 AU,2.6 years,0.03
-HD 202696 b,,1.996 Jupiters,8.23,2019,Unknown,Gas Giant,Radial Velocity,1.566 AU,1.4 years,0.01
-HD 181234 b,,9.379 Jupiters,8.59,2019,,,,,,
-HD 18015 b,,3.3 Jupiters,7.89,2018,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,3.87 AU,6.2 years,0.15
-HD 180053 b,,2.194 Jupiters,7.93,2018,1.19 x Jupiter (estimate),Gas Giant,Radial Velocity,0.843 AU,213.7 days,0.08
-HD 14787 b,,1.121 Jupiters,7.63,2018,1.23 x Jupiter (estimate),Gas Giant,Radial Velocity,1.7 AU,1.9 years,0.15
-HD 13167 b,,3.31 Jupiters,8.34,2018,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,4.1 AU,7.2 years,0.56
-Gl 686 b,,6.624 Earths,9.62,2018,0.22 x Jupiter (estimate),Neptune-like,Radial Velocity,0.091 AU,15.5 days,0.05
-GJ 4276 b,,16.57 Earths,12.903,2019,0.377 x Jupiter (estimate),Neptune-like,Radial Velocity,0.082 AU,13.4 days,0.37
-GJ 3779 b,,8 Earths,13.04,2018,0.245 x Jupiter (estimate),Neptune-like,Radial Velocity,0.026 AU,3 days,0.07
-GJ 143 b,,22.7 Earths,8.08,2019,0.233 x Jupiter,Neptune-like,Transit,0.1915 AU,35.6 days,0.19
-GJ 1265 b,,7.4 Earths,14.01,2018,0.234 x Jupiter (estimate),Neptune-like,Radial Velocity,0.026 AU,3.7 days,0.04
-TYC 3318-01333-1 b,,3.42 Jupiters,9.901,2018,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,1.414 AU,1.5 years,0.1
-TCP J05074264+2447555 b,,20 Earths,14.243,2018,0.421 x Jupiter (estimate),Neptune-like,Microlensing,0.94 AU,433.3 days,
-MXB 1658-298 b,,23.7 Jupiters,Unknown,2017,1.07 x Jupiter (estimate),Gas Giant,Eclipse Timing Variations,1.613 AU,2.1 years,
-HD 51608 c,,14.31 Earths,8.17,2019,0.346 x Jupiter (estimate),Neptune-like,Radial Velocity,0.3809 AU,95.9 days,0.14
-HD 51608 b,,12.77 Earths,8.17,2019,0.323 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1059 AU,14.1 days,0.09
-HD 45184 c,,8.81 Earths,6.383,2019,0.26 x Jupiter (estimate),Neptune-like,Radial Velocity,0.11 AU,13.1 days,0.07
-HD 45184 b,,12.19 Earths,6.383,2019,0.314 x Jupiter (estimate),Neptune-like,Radial Velocity,0.0644 AU,5.9 days,0.07
-HD 34445 c,,0.168 Jupiters,7.31,2017,0.752 x Jupiter (estimate),Gas Giant,Radial Velocity,0.7181 AU,214.7 days,0.04
-HD 3167 d,,4.33 Earths,8.97,2017,1.92 x Earth (estimate),Super Earth,Radial Velocity,0.0763 AU,8.4 days,< 0.12
-HD 31527 d,,11.82 Earths,7.49,2019,0.309 x Jupiter (estimate),Neptune-like,Radial Velocity,0.8098 AU,271.7 days,0.24
-HD 31527 c,,14.16 Earths,7.49,2019,0.343 x Jupiter (estimate),Neptune-like,Radial Velocity,0.2663 AU,51.2 days,0.04
-HD 31527 b,,10.47 Earths,7.49,2019,0.288 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1254 AU,16.6 days,0.1
-HD 238914 b,,6 Jupiters,8.770001,2018,1.14 x Jupiter (estimate),Gas Giant,Radial Velocity,5.7 AU,11.2 years,0.56
-HD 21693 c,,17.37 Earths,7.95,2019,0.387 x Jupiter (estimate),Neptune-like,Radial Velocity,0.2586 AU,53.7 days,0.07
-HD 21693 b,,8.23 Earths,7.95,2019,0.25 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1455 AU,22.7 days,0.12
-HD 20781 e,,14.03 Earths,8.48,2019,0.342 x Jupiter (estimate),Neptune-like,Radial Velocity,0.3374 AU,85.5 days,0.06
-HD 20781 d,,10.61 Earths,8.48,2019,0.29 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1647 AU,29.2 days,0.11
-HD 20781 c,,5.33 Earths,8.48,2019,2.17 x Earth (estimate),Neptune-like,Radial Velocity,0.1004 AU,13.9 days,0.09
-HD 20781 b,,1.93 Earths,8.48,2019,1.21 x Earth (estimate),Super Earth,Radial Velocity,0.0529 AU,5.3 days,0.1
-HD 20003 c,,14.44 Earths,8.39,2019,0.347 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1964 AU,33.9 days,0.1
-HD 20003 b,,11.66 Earths,8.39,2019,0.306 x Jupiter (estimate),Neptune-like,Radial Velocity,0.0974 AU,11.8 days,0.36
-HD 176986 c,,9.18 Earths,8.42,2017,0.266 x Jupiter (estimate),Neptune-like,Radial Velocity,0.11878 AU,16.8 days,0.11
-HD 176986 b,,5.74 Earths,8.42,2017,0.202 x Jupiter (estimate),Neptune-like,Radial Velocity,0.06296 AU,6.5 days,0.07
-HD 147379 b,,21.6 Earths,8.61,2017,0.44 x Jupiter (estimate),Neptune-like,Radial Velocity,0.3193 AU,86.6 days,0.06
-HD 136352 d,,8.82 Earths,5.655,2019,0.229 x Jupiter,Neptune-like,Radial Velocity,0.425 AU,107.2 days,0.0
-HD 136352 c,,11.24 Earths,5.655,2019,0.26 x Jupiter,Neptune-like,Radial Velocity,0.1721 AU,27.6 days,0.0
-HD 136352 b,,4.72 Earths,5.655,2019,1.664 x Earth,Super Earth,Radial Velocity,0.0964 AU,11.6 days,0.0
-HD 134060 c,,29.29 Earths,6.29,2019,0.527 x Jupiter (estimate),Neptune-like,Radial Velocity,2.3928 AU,3.5 years,0.11
-HD 134060 b,,10.1 Earths,6.29,2019,0.282 x Jupiter (estimate),Neptune-like,Radial Velocity,0.0444 AU,3.3 days,0.45
-HD 106315 c,,15.2 Earths,8.951,2017,0.388 x Jupiter,Neptune-like,Transit,0.1536 AU,21.1 days,0.22
-HD 106315 b,,12.6 Earths,8.951,2017,2.44 x Earth,Super Earth,Transit,0.0907 AU,9.6 days,0.09
-EPIC 220674823 c,,8.9 Earths,12.101,2016,0.253 x Jupiter,Neptune-like,Transit,0.1083 AU,13.3 days,< 0.13
-EPIC 220674823 b,,8.21 Earths,12.101,2016,1.725 x Earth,Super Earth,Transit,0.01326 AU,0.6 days,0.0
-CoRoTID 223977153 b,,0.15 Jupiters,13.626,2017,0.57 x Jupiter,Gas Giant,Transit,0.071 AU,6.7 days,
-Wolf 503 b,,6.27 Earths,10.27,2018,2.043 x Earth,Super Earth,Transit,0.05712 AU,6 days,0.41
-WASP-173 A b,,3.69 Jupiters,11.15,2018,1.2 x Jupiter,Gas Giant,Transit,0.0248 AU,1.4 days,0.0
-WASP-145 A b,,0.89 Jupiters,11.636,2018,0.9 x Jupiter,Gas Giant,Transit,0.0261 AU,1.8 days,0.0
-PDS 70 b,,3 Jupiters,12.032,2018,2.72 x Jupiter,Gas Giant,Imaging,20 AU,119.2 years,0.19
-K2-288 B b,,4.27 Earths,13.868,2018,1.9 x Earth,Super Earth,Transit,0.164 AU,31.4 days,
-IC 4651 9122 b,,6.3 Jupiters,10.909,2018,1.14 x Jupiter (estimate),Gas Giant,Radial Velocity,2.038 AU,2 years,0.18
-HD 99706 c,,5.69 Jupiters,7.65,2018,1.14 x Jupiter (estimate),Gas Giant,Radial Velocity,Unknown,3.5 years,0.41
-HD 95089 c,,3.45 Jupiters,7.92,2018,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,3.33 AU,4.9 years,0.28
-HD 33142 c,,0.89 Jupiters,7.96,2018,1.24 x Jupiter (estimate),Gas Giant,Radial Velocity,1.955 AU,2.2 years,0.08
-HD 219666 b,,16.6 Earths,9.809,2018,0.378 x Jupiter,Neptune-like,Transit,0.104 AU,6 days,0.0
-HD 202772 A b,,1.017 Jupiters,8.324,2019,1.545 x Jupiter,Gas Giant,Transit,0.05208 AU,3.3 days,0.04
-HD 156279 c,,9.75 Jupiters,8.07,2018,1.11 x Jupiter (estimate),Gas Giant,Radial Velocity,5.486 AU,13.2 years,0.26
-HD 1397 b,,0.415 Jupiters,7.79,2018,1.026 x Jupiter,Gas Giant,Transit,0.1097 AU,11.5 days,0.25
-HD 116029 c,,1.27 Jupiters,7.88,2018,1.22 x Jupiter (estimate),Gas Giant,Radial Velocity,Unknown,2.5 years,0.04
-HD 114783 c,,1.9 Jupiters,7.56,2018,1.2 x Jupiter (estimate),Gas Giant,Radial Velocity,5 AU,11.9 years,0.05
-HD 102329 c,,1.52 Jupiters,7.88,2018,1.21 x Jupiter (estimate),Gas Giant,Radial Velocity,Unknown,3.1 years,0.21
-Gl 378 b,,13.02 Earths,10.03,2019,0.327 x Jupiter (estimate),Neptune-like,Radial Velocity,0.039435 AU,3.8 days,0.11
-GJ 685 b,,9 Earths,9.98,2019,0.263 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1344 AU,24.2 days,0.0
-GJ 411 b,,2.69 Earths,7.421,2019,1.45 x Earth (estimate),Super Earth,Radial Velocity,0.07879 AU,12.9 days,0.06
-GJ 317 c,,1.64396 Jupiters,12.4,2018,1.2 x Jupiter (estimate),Gas Giant,Radial Velocity,5.23 AU,18.5 years,0.17
-Pi Mensae c,,3.63 Earths,5.666,2018,2.06 x Earth,Neptune-like,Transit,0.069 AU,6.3 days,0.08
-NGTS-3 A b,,2.38 Jupiters,14.669,2018,1.48 x Jupiter,Gas Giant,Transit,0.023 AU,1.7 days,
-HD 98736 b,,2.33 Jupiters,7.93,2018,1.19 x Jupiter (estimate),Gas Giant,Radial Velocity,1.864 AU,2.7 years,0.23
-HD 89345 b,,34.9613 Earths,9.38,2018,0.66 x Jupiter,Neptune-like,Transit,0.1066 AU,11.8 days,0.22
-HD 75784 c,,5.64 Jupiters,7.84,2018,1.14 x Jupiter (estimate),Gas Giant,Radial Velocity,8.4 AU,21.6 years,0.49
-HD 55696 b,,4.27 Jupiters,7.95,2018,1.16 x Jupiter (estimate),Gas Giant,Radial Velocity,3.18 AU,5 years,0.7
-HD 47366 c,,1.522 Jupiters,6.11151,2016,1.21 x Jupiter (estimate),Gas Giant,Radial Velocity,1.84 AU,1.9 years,0.16
-HD 47366 b,,2.082 Jupiters,6.11151,2016,1.19 x Jupiter (estimate),Gas Giant,Radial Velocity,1.207 AU,360.1 days,0.07
-HD 211810 b,,0.67 Jupiters,8.59,2018,1.25 x Jupiter (estimate),Gas Giant,Radial Velocity,2.656 AU,4.3 years,0.68
-HD 148164 c,,5.16 Jupiters,8.23,2018,,,,,,
-HD 148164 b,,1.23 Jupiters,8.23,2018,1.22 x Jupiter (estimate),Gas Giant,Radial Velocity,0.993 AU,328.6 days,0.59
-Gamma Librae c,,5.231 Jupiters,3.90672,2018,1.14 x Jupiter (estimate),Gas Giant,Radial Velocity,2.318 AU,2.6 years,0.07
-Gamma Librae b,,1.126 Jupiters,3.90672,2018,1.22 x Jupiter (estimate),Gas Giant,Radial Velocity,1.319 AU,414.9 days,0.16
-EPIC 211945201 b,,27 Earths,10.154,2018,0.514 x Jupiter,Neptune-like,Transit,0.1493 AU,19.5 days,0.0
-24 Bootis b,,0.883 Jupiters,5.59,2018,1.24 x Jupiter (estimate),,,,,
-WASP-160 B b,,0.278 Jupiters,13.04,2018,1.09 x Jupiter,Gas Giant,Transit,0.0452 AU,3.8 days,0.0
-HD 42012 b,,1.6 Jupiters,8.44,2017,,,,,,
-HD 29021 b,,4.47 Jupiters,7.76,2017,1.15 x Jupiter (estimate),Gas Giant,Radial Velocity,2.28 AU,3.7 years,0.46
-HD 215152 e,,2.877 Earths,8.11,2018,,,,,,
-HD 215152 d,,2.801 Earths,8.11,2018,1.48 x Earth (estimate),Super Earth,Radial Velocity,0.08799 AU,10.9 days,0.0
-HD 215152 c,,1.72 Earths,8.11,2018,1.17 x Earth (estimate),Super Earth,Radial Velocity,0.067393 AU,7.3 days,0.0
-HD 215152 b,,1.819 Earths,8.11,2018,1.19 x Earth (estimate),Super Earth,Radial Velocity,0.057638 AU,5.8 days,0.0
-HD 17674 b,,0.87 Jupiters,7.535,2017,,,,,,
-HD 158996 b,,14 Jupiters,5.72291,2018,1.1 x Jupiter (estimate),Gas Giant,Radial Velocity,2.1 AU,2.2 years,0.13
-GJ 96 b,,19.66 Earths,9.4,2018,0.417 x Jupiter (estimate),Neptune-like,Radial Velocity,0.291 AU,73.9 days,0.44
-GJ 1132 c,,2.64 Earths,13.68,2018,1.43 x Earth (estimate),Super Earth,Radial Velocity,0.0476 AU,8.9 days,< 0.27
-EPIC 246851721 b,,3 Jupiters,11.237,2018,1.051 x Jupiter,Gas Giant,Transit,0.07229 AU,6.2 days,
+K2-32 e,157.682,2.1 Earths,12.304,2019,1.212 x Earth,Super Earth,Transit,0.04899 AU,4.3 days,0.04
+HD 2685 b,196.852,1.17 Jupiters,9.595,2019,1.44 x Jupiter,Gas Giant,Transit,0.0568 AU,4.1 days,0.09
+Gl 49 b,9.8528,5.63 Earths,9.56,2019,2.24 x Earth,Neptune-like,Radial Velocity,0.0905 AU,13.9 days,0.36
+NSVS 14256825 b,820.877,14.15 Jupiters,13.296,2019,1.1 x Jupiter (estimate),Gas Giant,Eclipse Timing Variations,3.12 AU,8.8 years,0.12
+LSPM J2116+0234 b,17.6297,13.3 Earths,11.961,2019,0.331 x Jupiter (estimate),Neptune-like,Radial Velocity,0.0876 AU,14.4 days,0.18
+HD 180617 b,5.91059,12.214 Earths,9.12,2018,0.315 x Jupiter (estimate),Neptune-like,Radial Velocity,0.343 AU,105.9 days,0.1
+EPIC 220554210 c,496.289,3.19 Earths,14.21,2019,1.6 x Earth,Super Earth,Transit,Unknown,0.7 days,
+EPIC 212587672 b,320.07,2.13 Earths,12.488,2019,1.26 x Earth,Super Earth,Transit,Unknown,15.3 days,
+EPIC 212499991 b,283.29,3.19 Earths,13.672,2019,1.6 x Earth,Super Earth,Transit,Unknown,34.9 days,
+EPIC 212424622 b,611.804,5.35 Earths,13.441,2019,2.17 x Earth,Neptune-like,Transit,Unknown,18.1 days,
+EPIC 212297394 b,418.395,2.79 Earths,14.611,2019,1.48 x Earth,Super Earth,Transit,Unknown,2.3 days,
+EPIC 206317286 b,314.35,0.84 Earths,14.005,2019,0.96 x Earth,Terrestrial,Transit,Unknown,1.6 days,
+EPIC 206215704 b,109.888,0.972 Earths,17.83,2019,1.0 x Earth,Terrestrial,Transit,Unknown,2.3 days,
+EPIC 206042996 b,451.769,3.53 Earths,16.59,2019,1.7 x Earth,Super Earth,Transit,Unknown,5.3 days,
+EPIC 206032309 b,161.365,1.01 Earths,17.89,2019,1.01 x Earth,Super Earth,Transit,Unknown,2.9 days,
+EPIC 206024342 b,369.888,3.53 Earths,13.096,2019,1.7 x Earth,Super Earth,Transit,Unknown,4.5 days,
+EPIC 205950854 c,243.935,2.27 Earths,12.365,2019,1.31 x Earth,Super Earth,Transit,Unknown,8.1 days,
+EPIC 201841433 b,436.488,1.12 Earths,14.983,2019,1.04 x Earth,Super Earth,Transit,0.035 AU,4.2 days,
+EPIC 201833600 c,257.443,0.972 Earths,14.705,2019,1.0 x Earth,Terrestrial,Transit,Unknown,4 days,
+EPIC 201754305 d,334.967,1.08 Earths,14.668,2019,1.03 x Earth,Super Earth,Transit,Unknown,2.7 days,
+EPIC 201615463 c,476.882,1.98 Earths,12.081,2019,1.22 x Earth,Super Earth,Transit,Unknown,3.8 days,
+EPIC 201497682 b,253.026,0.26 Earths,13.948,2019,0.692 x Earth,Terrestrial,Transit,Unknown,2.1 days,
+EPIC 201238110 b,159.259,4.16 Earths,16.014,2019,1.87 x Earth,Super Earth,Transit,Unknown,28.2 days,
+K2-295 b,232.801,0.335 Jupiters,13.8941,2018,,,,,,
+K2-133 e,75.1703,3.64 Earths,14.073,2019,1.73 x Earth,Super Earth,Transit,0.1346 AU,26.6 days,
+HD 15337 c,44.8155,8.11 Earths,9.1,2019,2.39 x Earth,Super Earth,Transit,0.1268 AU,17.2 days,0.05
+HD 15337 b,44.8155,7.51 Earths,9.1,2019,1.64 x Earth,Super Earth,Transit,0.0522 AU,4.8 days,0.09
+NGTS-4 b,280.555,20.6 Earths,13.138,2019,0.284 x Jupiter,Neptune-like,Transit,0.019 AU,1.3 days,0
+HIP 71135 b,32.3311,18.8 Earths,10.53,2019,,,,,,
+HIP 54373 c,18.7168,12.44 Earths,10.38,2019,0.318 x Jupiter (estimate),Neptune-like,Radial Velocity,0.099 AU,15.1 days,0.2
+HD 24085 b,54.9004,11.8 Earths,7.57,2019,0.309 x Jupiter (estimate),Neptune-like,Radial Velocity,0.034 AU,2 days,0.22
+NGTS-5 b,306.779,0.229 Jupiters,13.789,2019,1.136 x Jupiter,Gas Giant,Transit,0.0382 AU,3.4 days,0
+HIP 54373 b,18.7168,8.62 Earths,10.38,2019,0.256 x Jupiter (estimate),Neptune-like,Radial Velocity,0.063 AU,7.8 days,0.2
+HIP 35173 b,33.1562,12.7 Earths,9.01,2019,0.322 x Jupiter (estimate),Neptune-like,Radial Velocity,0.217 AU,41.5 days,0.16
+HD 8326 b,30.6862,0.20955 Jupiters,8.76,2019,0.855 x Jupiter (estimate),Gas Giant,Radial Velocity,0.533 AU,159 days,0.2
+HD 64114 b,31.5262,17.8 Earths,7.71,2019,0.393 x Jupiter (estimate),Neptune-like,Radial Velocity,0.246 AU,45.8 days,0.12
+HD 39855 b,23.2599,8.5 Earths,7.51,2019,0.254 x Jupiter (estimate),Neptune-like,Radial Velocity,0.041 AU,3.2 days,0.14
+HD 21411 b,29.1328,0.20734 Jupiters,7.88,2019,0.85 x Jupiter (estimate),Gas Giant,Radial Velocity,0.362 AU,84.3 days,0.4
+HD 211970 b,13.1277,13 Earths,10.24,2019,0.327 x Jupiter (estimate),Neptune-like,Radial Velocity,0.143 AU,25.2 days,0.15
+HD 210193 b,42.2029,0.4817 Jupiters,7.83,2019,1.27 x Jupiter (estimate),Gas Giant,Radial Velocity,1.487 AU,1.8 years,0.24
+HD 206255 b,75.2363,34.2 Earths,7.62,2019,0.577 x Jupiter (estimate),Neptune-like,Radial Velocity,0.461 AU,96 days,0.23
+HD 103949 b,26.4997,11.2 Earths,8.7,2019,0.299 x Jupiter (estimate),Neptune-like,Radial Velocity,0.439 AU,120.9 days,0.19
+HD 102843 b,62.758,0.35837 Jupiters,9.26,2019,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,4.074 AU,8.5 years,0.11
+HD 221420 b,31.1415,22 Jupiters,5.82,2019,1.07 x Jupiter (estimate),Gas Giant,Radial Velocity,10.1 AU,27.6 years,0.12
+Qatar-9 b,213.771,1.19 Jupiters,14.023,2019,1.009 x Jupiter,Gas Giant,Transit,0.0234 AU,1.5 days,0
+Qatar-8 b,281.498,0.371 Jupiters,11.71,2019,1.285 x Jupiter,Gas Giant,Transit,0.0474 AU,3.7 days,0
+Qatar-10 b,559.068,0.736 Jupiters,12.868,2019,1.543 x Jupiter,Gas Giant,Transit,0.0286 AU,1.6 days,0
+Kepler-47 d,1025.02,19.02 Earths,15.31,2019,0.628 x Jupiter,Neptune-like,Transit,0.6992 AU,187.4 days,0.02
+HD 21749 c,16.32,3.7 Earths,8.08,2019,0.892 x Earth,Super Earth,Transit,0.0695 AU,7.8 days,
+LHS 3844 b,14.8846,2.25 Earths,15.24,2019,1.303 x Earth,Super Earth,Transit,0.00622 AU,0.5 days,
+LHS 1140 c,14.9861,1.91 Earths,14.15,2018,1.272 x Earth,Super Earth,Transit,0.027 AU,3.8 days,< 0.05
+HD 94834 b,98.1609,1.26 Jupiters,7.6,2018,1.22 x Jupiter (estimate),Gas Giant,Radial Velocity,2.74 AU,4.3 years,0.14
+HD 92788 c,34.6538,3.67 Jupiters,7.31637,2019,1.16 x Jupiter (estimate),Gas Giant,Radial Velocity,10.5 AU,31.8 years,0.46
+HD 72490 b,126.339,1.768 Jupiters,7.82,2018,1.2 x Jupiter (estimate),Gas Giant,Radial Velocity,1.88 AU,2.4 years,0.12
+HD 50499 c,46.2845,2.93 Jupiters,7.21,2019,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,9.02 AU,23.6 years,0
+HD 4917 b,204.277,1.615 Jupiters,8.03,2018,1.21 x Jupiter (estimate),Gas Giant,Radial Velocity,1.167 AU,400.5 days,0.07
+HD 25015 b,37.433,9.077 Jupiters,8.87,2019,1.12 x Jupiter (estimate),Gas Giant,Radial Velocity,6.248 AU,16.8 years,0.34
+HD 23472 c,39.0341,3.41 Earths,9.73,2019,1.87 x Earth,Super Earth,Transit,0.1646 AU,29.8 days,0.06
+HD 23472 b,39.0341,8.32 Earths,9.73,2019,2.0 x Earth,Super Earth,Transit,0.1162 AU,17.7 days,0.07
+HD 221416 b,95.5483,0.19 Jupiters,8.15,2019,0.836 x Jupiter,Gas Giant,Transit,0.1228 AU,14.3 days,0.12
+HD 202696 c,188.546,1.864 Jupiters,8.23,2019,Unknown,Gas Giant,Radial Velocity,2.342 AU,2.6 years,0.03
+HD 202696 b,188.546,1.996 Jupiters,8.23,2019,Unknown,Gas Giant,Radial Velocity,1.566 AU,1.4 years,0.01
+HD 181234 b,47.7458,9.379 Jupiters,8.59,2019,,,,,,
+HD 18015 b,123.801,3.3 Jupiters,7.89,2018,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,3.87 AU,6.2 years,0.15
+HD 180053 b,137.043,2.194 Jupiters,7.93,2018,1.19 x Jupiter (estimate),Gas Giant,Radial Velocity,0.843 AU,213.7 days,0.08
+HD 14787 b,119.137,1.121 Jupiters,7.63,2018,1.23 x Jupiter (estimate),Gas Giant,Radial Velocity,1.7 AU,1.9 years,0.15
+HD 13167 b,148.934,3.31 Jupiters,8.34,2018,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,4.1 AU,7.2 years,0.56
+Gl 686 b,8.15728,6.624 Earths,9.62,2018,0.22 x Jupiter (estimate),Neptune-like,Radial Velocity,0.091 AU,15.5 days,0.05
+GJ 4276 b,21.3362,16.57 Earths,12.903,2019,0.377 x Jupiter (estimate),Neptune-like,Radial Velocity,0.082 AU,13.4 days,0.37
+GJ 3779 b,13.743,8 Earths,13.04,2018,0.245 x Jupiter (estimate),Neptune-like,Radial Velocity,0.026 AU,3 days,0.07
+GJ 143 b,16.32,22.7 Earths,8.08,2019,0.233 x Jupiter,Neptune-like,Transit,0.1915 AU,35.6 days,0.19
+GJ 1265 b,10.2525,7.4 Earths,14.01,2018,0.234 x Jupiter (estimate),Neptune-like,Radial Velocity,0.026 AU,3.7 days,0.04
+TYC 3318-01333-1 b,490.61,3.42 Jupiters,9.901,2018,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,1.414 AU,1.5 years,0.1
+TCP J05074264+2447555 b,505,20 Earths,14.243,2018,0.421 x Jupiter (estimate),Neptune-like,Microlensing,0.94 AU,433.3 days,
+MXB 1658-298 b,Unknown,23.7 Jupiters,Unknown,2017,1.07 x Jupiter (estimate),Gas Giant,Eclipse Timing Variations,1.613 AU,2.1 years,
+HD 51608 c,35.0553,14.31 Earths,8.17,2019,0.346 x Jupiter (estimate),Neptune-like,Radial Velocity,0.3809 AU,95.9 days,0.14
+HD 51608 b,35.0553,12.77 Earths,8.17,2019,0.323 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1059 AU,14.1 days,0.09
+HD 45184 c,21.9532,8.81 Earths,6.383,2019,0.26 x Jupiter (estimate),Neptune-like,Radial Velocity,0.11 AU,13.1 days,0.07
+HD 45184 b,21.9532,12.19 Earths,6.383,2019,0.314 x Jupiter (estimate),Neptune-like,Radial Velocity,0.0644 AU,5.9 days,0.07
+HD 34445 c,46.0907,0.168 Jupiters,7.31,2017,0.752 x Jupiter (estimate),Gas Giant,Radial Velocity,0.7181 AU,214.7 days,0.04
+HD 3167 d,47.2899,4.33 Earths,8.97,2017,1.92 x Earth (estimate),Super Earth,Radial Velocity,0.0763 AU,8.4 days,< 0.12
+HD 31527 d,38.4473,11.82 Earths,7.49,2019,0.309 x Jupiter (estimate),Neptune-like,Radial Velocity,0.8098 AU,271.7 days,0.24
+HD 31527 c,38.4473,14.16 Earths,7.49,2019,0.343 x Jupiter (estimate),Neptune-like,Radial Velocity,0.2663 AU,51.2 days,0.04
+HD 31527 b,38.4473,10.47 Earths,7.49,2019,0.288 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1254 AU,16.6 days,0.1
+HD 238914 b,519.452,6 Jupiters,8.770001,2018,1.14 x Jupiter (estimate),Gas Giant,Radial Velocity,5.7 AU,11.2 years,0.56
+HD 21693 c,33.255,17.37 Earths,7.95,2019,0.387 x Jupiter (estimate),Neptune-like,Radial Velocity,0.2586 AU,53.7 days,0.07
+HD 21693 b,33.255,8.23 Earths,7.95,2019,0.25 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1455 AU,22.7 days,0.12
+HD 20781 e,35.9715,14.03 Earths,8.48,2019,0.342 x Jupiter (estimate),Neptune-like,Radial Velocity,0.3374 AU,85.5 days,0.06
+HD 20781 d,35.9715,10.61 Earths,8.48,2019,0.29 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1647 AU,29.2 days,0.11
+HD 20781 c,35.9715,5.33 Earths,8.48,2019,2.17 x Earth (estimate),Neptune-like,Radial Velocity,0.1004 AU,13.9 days,0.09
+HD 20781 b,35.9715,1.93 Earths,8.48,2019,1.21 x Earth (estimate),Super Earth,Radial Velocity,0.0529 AU,5.3 days,0.1
+HD 20003 c,41.8316,14.44 Earths,8.39,2019,0.347 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1964 AU,33.9 days,0.1
+HD 20003 b,41.8316,11.66 Earths,8.39,2019,0.306 x Jupiter (estimate),Neptune-like,Radial Velocity,0.0974 AU,11.8 days,0.36
+HD 176986 c,27.7843,9.18 Earths,8.42,2017,0.266 x Jupiter (estimate),Neptune-like,Radial Velocity,0.11878 AU,16.8 days,0.11
+HD 176986 b,27.7843,5.74 Earths,8.42,2017,0.202 x Jupiter (estimate),Neptune-like,Radial Velocity,0.06296 AU,6.5 days,0.07
+HD 147379 b,10.7643,21.6 Earths,8.61,2017,0.44 x Jupiter (estimate),Neptune-like,Radial Velocity,0.3193 AU,86.6 days,0.06
+HD 136352 d,14.7391,8.82 Earths,5.655,2019,0.229 x Jupiter,Neptune-like,Radial Velocity,0.425 AU,107.2 days,0
+HD 136352 c,14.7391,11.24 Earths,5.655,2019,0.26 x Jupiter,Neptune-like,Radial Velocity,0.1721 AU,27.6 days,0
+HD 136352 b,14.7391,4.72 Earths,5.655,2019,1.664 x Earth,Super Earth,Radial Velocity,0.0964 AU,11.6 days,0
+HD 134060 c,24.0125,29.29 Earths,6.29,2019,0.527 x Jupiter (estimate),Neptune-like,Radial Velocity,2.3928 AU,3.5 years,0.11
+HD 134060 b,24.0125,10.1 Earths,6.29,2019,0.282 x Jupiter (estimate),Neptune-like,Radial Velocity,0.0444 AU,3.3 days,0.45
+HD 106315 c,109.353,15.2 Earths,8.951,2017,0.388 x Jupiter,Neptune-like,Transit,0.1536 AU,21.1 days,0.22
+HD 106315 b,109.353,12.6 Earths,8.951,2017,2.44 x Earth,Super Earth,Transit,0.0907 AU,9.6 days,0.09
+EPIC 220674823 c,244.59,8.9 Earths,12.101,2016,0.253 x Jupiter,Neptune-like,Transit,0.1083 AU,13.3 days,< 0.13
+EPIC 220674823 b,244.59,8.21 Earths,12.101,2016,1.725 x Earth,Super Earth,Transit,0.01326 AU,0.6 days,0
+CoRoTID 223977153 b,576.683,0.15 Jupiters,13.626,2017,0.57 x Jupiter,Gas Giant,Transit,0.071 AU,6.7 days,
+Wolf 503 b,44.526,6.27 Earths,10.27,2018,2.043 x Earth,Super Earth,Transit,0.05712 AU,6 days,0.41
+WASP-173 A b,232.98,3.69 Jupiters,11.15,2018,1.2 x Jupiter,Gas Giant,Transit,0.0248 AU,1.4 days,0
+WASP-145 A b,91.299,0.89 Jupiters,11.636,2018,0.9 x Jupiter,Gas Giant,Transit,0.0261 AU,1.8 days,0
+PDS 70 b,113.064,3 Jupiters,12.032,2018,2.72 x Jupiter,Gas Giant,Imaging,20 AU,119.2 years,0.19
+K2-288 B b,65.6138,4.27 Earths,13.868,2018,1.9 x Earth,Super Earth,Transit,0.164 AU,31.4 days,
+IC 4651 9122 b,859.324,6.3 Jupiters,10.909,2018,1.14 x Jupiter (estimate),Gas Giant,Radial Velocity,2.038 AU,2 years,0.18
+HD 99706 c,146.6,5.69 Jupiters,7.65,2018,1.14 x Jupiter (estimate),Gas Giant,Radial Velocity,Unknown,3.5 years,0.41
+HD 95089 c,136.957,3.45 Jupiters,7.92,2018,1.17 x Jupiter (estimate),Gas Giant,Radial Velocity,3.33 AU,4.9 years,0.28
+HD 33142 c,121.375,0.89 Jupiters,7.96,2018,1.24 x Jupiter (estimate),Gas Giant,Radial Velocity,1.955 AU,2.2 years,0.08
+HD 219666 b,94.1719,16.6 Earths,9.809,2018,0.378 x Jupiter,Neptune-like,Transit,0.104 AU,6 days,0
+HD 202772 A b,161.498,1.017 Jupiters,8.324,2019,1.545 x Jupiter,Gas Giant,Transit,0.05208 AU,3.3 days,0.04
+HD 156279 c,36.1945,9.75 Jupiters,8.07,2018,1.11 x Jupiter (estimate),Gas Giant,Radial Velocity,5.486 AU,13.2 years,0.26
+HD 1397 b,79.5702,0.415 Jupiters,7.79,2018,1.026 x Jupiter,Gas Giant,Transit,0.1097 AU,11.5 days,0.25
+HD 116029 c,123.245,1.27 Jupiters,7.88,2018,1.22 x Jupiter (estimate),Gas Giant,Radial Velocity,Unknown,2.5 years,0.04
+HD 114783 c,21.0628,1.9 Jupiters,7.56,2018,1.2 x Jupiter (estimate),Gas Giant,Radial Velocity,5 AU,11.9 years,0.05
+HD 102329 c,217.107,1.52 Jupiters,7.88,2018,1.21 x Jupiter (estimate),Gas Giant,Radial Velocity,Unknown,3.1 years,0.21
+Gl 378 b,14.9545,13.02 Earths,10.03,2019,0.327 x Jupiter (estimate),Neptune-like,Radial Velocity,0.039435 AU,3.8 days,0.11
+GJ 685 b,14.3155,9 Earths,9.98,2019,0.263 x Jupiter (estimate),Neptune-like,Radial Velocity,0.1344 AU,24.2 days,0
+GJ 411 b,2.5461,2.69 Earths,7.421,2019,1.45 x Earth (estimate),Super Earth,Radial Velocity,0.07879 AU,12.9 days,0.06
+GJ 317 c,15.1968,1.64396 Jupiters,12.4,2018,1.2 x Jupiter (estimate),Gas Giant,Radial Velocity,5.23 AU,18.5 years,0.17
+Pi Mensae c,18.2874,3.63 Earths,5.666,2018,2.06 x Earth,Neptune-like,Transit,0.069 AU,6.3 days,0.08
+NGTS-3 A b,743.972,2.38 Jupiters,14.669,2018,1.48 x Jupiter,Gas Giant,Transit,0.023 AU,1.7 days,
+HD 98736 b,32.4459,2.33 Jupiters,7.93,2018,1.19 x Jupiter (estimate),Gas Giant,Radial Velocity,1.864 AU,2.7 years,0.23
+HD 89345 b,132.345,34.9613 Earths,9.38,2018,0.66 x Jupiter,Neptune-like,Transit,0.1066 AU,11.8 days,0.22
+HD 75784 c,85.4321,5.64 Jupiters,7.84,2018,1.14 x Jupiter (estimate),Gas Giant,Radial Velocity,8.4 AU,21.6 years,0.49
+HD 55696 b,77.9693,4.27 Jupiters,7.95,2018,1.16 x Jupiter (estimate),Gas Giant,Radial Velocity,3.18 AU,5 years,0.7
+HD 47366 c,84.3552,1.522 Jupiters,6.11151,2016,1.21 x Jupiter (estimate),Gas Giant,Radial Velocity,1.84 AU,1.9 years,0.16
+HD 47366 b,84.3552,2.082 Jupiters,6.11151,2016,1.19 x Jupiter (estimate),Gas Giant,Radial Velocity,1.207 AU,360.1 days,0.07
+HD 211810 b,64.6353,0.67 Jupiters,8.59,2018,1.25 x Jupiter (estimate),Gas Giant,Radial Velocity,2.656 AU,4.3 years,0.68
+HD 148164 c,77.1971,5.16 Jupiters,8.23,2018,,,,,,
+HD 148164 b,77.1971,1.23 Jupiters,8.23,2018,1.22 x Jupiter (estimate),Gas Giant,Radial Velocity,0.993 AU,328.6 days,0.59
+Gamma Librae c,47.4017,5.231 Jupiters,3.90672,2018,1.14 x Jupiter (estimate),Gas Giant,Radial Velocity,2.318 AU,2.6 years,0.07
+Gamma Librae b,47.4017,1.126 Jupiters,3.90672,2018,1.22 x Jupiter (estimate),Gas Giant,Radial Velocity,1.319 AU,414.9 days,0.16
+EPIC 211945201 b,181.69,27 Earths,10.154,2018,0.514 x Jupiter,Neptune-like,Transit,0.1493 AU,19.5 days,0
+24 Bootis b,95.9863,0.883 Jupiters,5.59,2018,1.24 x Jupiter (estimate),,,,,
+WASP-160 B b,288.326,0.278 Jupiters,13.04,2018,1.09 x Jupiter,Gas Giant,Transit,0.0452 AU,3.8 days,0
+HD 42012 b,36.7984,1.6 Jupiters,8.44,2017,,,,,,
+HD 29021 b,30.9939,4.47 Jupiters,7.76,2017,1.15 x Jupiter (estimate),Gas Giant,Radial Velocity,2.28 AU,3.7 years,0.46
+HD 215152 e,21.5974,2.877 Earths,8.11,2018,,,,,,
+HD 215152 d,21.5974,2.801 Earths,8.11,2018,1.48 x Earth (estimate),Super Earth,Radial Velocity,0.08799 AU,10.9 days,0
+HD 215152 c,21.5974,1.72 Earths,8.11,2018,1.17 x Earth (estimate),Super Earth,Radial Velocity,0.067393 AU,7.3 days,0
+HD 215152 b,21.5974,1.819 Earths,8.11,2018,1.19 x Earth (estimate),Super Earth,Radial Velocity,0.057638 AU,5.8 days,0
+HD 17674 b,44.4264,0.87 Jupiters,7.535,2017,,,,,,
+HD 158996 b,283.659,14 Jupiters,5.72291,2018,1.1 x Jupiter (estimate),Gas Giant,Radial Velocity,2.1 AU,2.2 years,0.13

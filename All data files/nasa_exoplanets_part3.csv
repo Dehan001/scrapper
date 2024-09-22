@@ -13,7 +13,7 @@ WASP-84 c,100.588,15.2 Earths,10.825,2023,1.95 x Earth,Super Earth,Transit,0.023
 TOI-411 c,62.7792,9.72 Earths,8.270001,2022,2.328 x Earth,Super Earth,Transit,0.1017 AU,9.6 days,0.16
 TOI-411 b,62.7792,13.71 Earths,8.270001,2022,1.362 x Earth,Super Earth,Transit,0.05727 AU,4 days,0.13
 TOI-1634 c,35.2736,Unknown,13.217,2022,Unknown,Unknown,Radial Velocity,Unknown,103 days,0
-Rho Coronae Borealis e,17.5108,3.79 Earths,5.41,2023,1.77 x Earth (estimate),Super Earth,Radial Velocity,0.1061 AU,12.9 days,0.13
+Rho Coronae Borealis e,17.5108,3.79 Earths,5.41,2023,,,,,,
 Rho Coronae Borealis d,17.5108,21.6 Earths,5.41,2023,0.44 x Jupiter (estimate),Neptune-like,Radial Velocity,0.827 AU,282.2 days,0
 HD 22946 d,62.7792,26.57 Earths,8.270001,2023,0.233 x Jupiter,Neptune-like,Transit,0.2958 AU,47.4 days,
 BD-210397 c,23.7324,4.8 Jupiters,9.84,2023,1.15 x Jupiter (estimate),Gas Giant,Radial Velocity,5.9 AU,17.1 years,0.43
@@ -57,7 +57,7 @@ TOI-4308 b,108.932,6.43 Earths,11.251,2023,0.216 x Jupiter,Neptune-like,Transit,
 TOI-3082 b,113.048,13 Earths,12.934,2023,0.327 x Jupiter,Neptune-like,Transit,Unknown,1.9 days,
 TOI-2498 b,275.265,34.62 Earths,11.196,2023,0.541 x Jupiter,Neptune-like,Transit,0.0491 AU,3.7 days,0.09
 TOI-2459 b,36.6113,9.03 Earths,10.772,2023,0.263 x Jupiter,Neptune-like,Transit,Unknown,19.1 days,
-TOI-2443 b,23.9258,8.11 Earths,9.51,2023,0.247 x Jupiter,Neptune-like,Transit,Unknown,15.7 days,
+TOI-2443 b,23.9258,8.11 Earths,9.51,2023,,,,,,
 TOI-2194 b,19.5711,4.61 Earths,8.42,2023,1.989 x Earth,Super Earth,Transit,Unknown,15.3 days,
 TOI-139 b,42.4061,6.6 Earths,10.55,2023,0.219 x Jupiter,Neptune-like,Transit,Unknown,11.1 days,
 KMT-2022-BLG-0440L b,3500,15.4 Earths,Unknown,2023,0.361 x Jupiter (estimate),Neptune-like,Microlensing,1.9 AU,3.6 years,
@@ -142,7 +142,7 @@ OGLE-2018-BLG-1367L b,5370,0.95 Jupiters,Unknown,2022,1.23 x Jupiter (estimate),
 OGLE-2018-BLG-1212L b,1550,0.2 Jupiters,Unknown,2022,0.832 x Jupiter (estimate),Gas Giant,Microlensing,1.68 AU,5.4 years,
 OGLE-2018-BLG-1126L b,5700,17.79839 Earths,Unknown,2022,0.393 x Jupiter (estimate),Neptune-like,Microlensing,3.23 AU,7 years,
 OGLE-2018-BLG-0932L b,6620,0.89 Jupiters,Unknown,2022,1.24 x Jupiter (estimate),Gas Giant,Microlensing,1.75 AU,2.7 years,
-EPIC 229004835 b,121.971,10.4 Earths,10.23,2023,2.332 x Earth,Super Earth,Transit,0.1237 AU,16.1 days,< 0.23
+EPIC 229004835 b,121.971,10.4 Earths,10.23,2023,,,,,,
 WISE J033605.05-014350.4 b,Unknown,8.25 Jupiters,Unknown,2023,1.12 x Jupiter (estimate),Gas Giant,Imaging,0.97 AU,7 years,
 K2-2016-BLG-0005L b,5200,1.1 Jupiters,Unknown,2023,1.23 x Jupiter (estimate),Gas Giant,Microlensing,4.16 AU,12.9 years,
 TOI-733 b,75.2092,5.72 Earths,9.44,2023,1.992 x Earth,Super Earth,Transit,0.0618 AU,4.9 days,0.05

@@ -5,7 +5,7 @@ Kepler-1825 b,430.254,2.61 Earths,14.605,2021,1.422 x Earth,Super Earth,Transit,
 Kepler-1816 b,437.823,4.53 Earths,14.734,2021,1.968 x Earth,Super Earth,Transit,0.3648 AU,91.5 days,0
 Kepler-1802 b,636.694,3.43 Earths,15.905,2021,1.671 x Earth,Super Earth,Transit,0.0662 AU,15.5 days,0
 Kepler-1783 b,264.078,2.3 Earths,13.309,2021,1.319 x Earth,Super Earth,Transit,0.077 AU,8.3 days,0
-Kepler-1772 b,871.564,7.68 Earths,13.546,2021,0.24 x Jupiter,Neptune-like,Transit,0.0418 AU,3.2 days,0
+Kepler-1772 b,871.564,7.68 Earths,13.546,2021,,,,,,
 Kepler-1769 b,438.412,18.2 Earths,12.487,2021,0.398 x Jupiter,Neptune-like,Transit,0.3987 AU,89.2 days,0
 Kepler-1726 b,390.552,6.84 Earths,13.851,2021,0.224 x Jupiter,Neptune-like,Transit,0.1306 AU,18.4 days,0
 Kepler-1723 b,811.278,8.65 Earths,14.383,2021,0.257 x Jupiter,Neptune-like,Transit,0.2249 AU,39.8 days,0
@@ -25,7 +25,7 @@ HD 29399 b,44.1518,1.57 Jupiters,5.79,2022,1.21 x Jupiter (estimate),Gas Giant,R
 HD 207897 b,28.2938,14.8 Earths,8.37,2021,2.343 x Earth,Super Earth,Transit,0.117 AU,16.2 days,0
 HD 137496 c,155.317,7.66 Jupiters,9.899,2021,1.13 x Jupiter (estimate),Gas Giant,Radial Velocity,1.2163 AU,479.9 days,0.48
 HD 137496 b,155.317,4.04 Earths,9.899,2021,1.31 x Earth,Super Earth,Transit,0.02732 AU,1.6 days,0
-TOI-2257 b,57.7911,5.45 Earths,15.211,2021,2.194 x Earth,Neptune-like,Transit,0.145 AU,35.2 days,0.5
+TOI-2257 b,57.7911,5.45 Earths,15.211,2021,,,,,,
 HIP 97166 c,65.9501,8 Earths,9.92,2021,0.245 x Jupiter (estimate),Neptune-like,Radial Velocity,0.124 AU,16.4 days,0
 HIP 97166 b,65.9501,19.1 Earths,9.92,2021,2.48 x Earth,Super Earth,Transit,0.091 AU,10.3 days,0.29
 LHS 1678 c,19.8782,1.4 Earths,12.6,2021,0.941 x Earth,Super Earth,Transit,0.0327 AU,3.7 days,0.04
@@ -36,7 +36,7 @@ HD 93385 d,43.3475,8.7 Earths,7.49,2021,0.258 x Jupiter (estimate),Neptune-like,
 HD 93385 c,43.3475,7.1 Earths,7.49,2021,0.229 x Jupiter (estimate),Neptune-like,Radial Velocity,0.112 AU,13.2 days,< 0.2
 HD 93385 b,43.3475,4.2 Earths,7.49,2021,1.88 x Earth (estimate),Super Earth,Radial Velocity,0.0756 AU,7.3 days,< 0.295
 HD 39194 d,26.4131,4 Earths,8.09,2021,1.83 x Earth (estimate),Super Earth,Radial Velocity,0.056 AU,5.6 days,< 0.207
-HD 39194 c,26.4131,6.3 Earths,8.09,2021,0.213 x Jupiter (estimate),Neptune-like,Radial Velocity,0.103 AU,14 days,< 0.154
+HD 39194 c,26.4131,6.3 Earths,8.09,2021,,,,,,
 HD 39194 b,26.4131,4 Earths,8.09,2021,1.83 x Earth (estimate),Super Earth,Radial Velocity,0.056 AU,5.6 days,< 0.207
 HD 189567 c,17.9323,7 Earths,6.07,2021,0.227 x Jupiter (estimate),Neptune-like,Radial Velocity,0.197 AU,33.7 days,0.16
 HD 189567 b,17.9323,8.5 Earths,6.07,2021,0.254 x Jupiter (estimate),Neptune-like,Radial Velocity,0.111 AU,14.3 days,< 0.189
@@ -88,7 +88,7 @@ K2-349 b,453.567,2.48 Earths,14.585,2016,1.38 x Earth,Super Earth,Transit,Unknow
 K2-347 b,320.336,6.39 Earths,15.15,2016,0.215 x Jupiter,Neptune-like,Transit,Unknown,7.2 days,
 K2-346 b,105.58,5.73 Earths,11.903,2016,0.202 x Jupiter,Neptune-like,Transit,Unknown,26.2 days,
 K2-345 b,162.408,5.1 Earths,15.72,2016,2.11 x Earth,Neptune-like,Transit,Unknown,10.4 days,
-K2-340 b,738.136,11.2 Earths,14.428,2016,0.3 x Jupiter,Neptune-like,Transit,Unknown,29.7 days,
+K2-340 b,738.136,11.2 Earths,14.428,2016,,,,,,
 K2-338 b,156.951,1.08 Earths,13.322,2016,1.03 x Earth,Super Earth,Transit,Unknown,3.9 days,
 K2-337 b,421.636,7.37 Earths,12.385,2016,0.234 x Jupiter,Neptune-like,Transit,Unknown,16.3 days,
 K2-336 b,239.289,1.98 Earths,12.803,2016,1.22 x Earth,Super Earth,Transit,Unknown,21.2 days,

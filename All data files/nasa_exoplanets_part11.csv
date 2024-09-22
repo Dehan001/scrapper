@@ -2,7 +2,7 @@ Planet Name,Parsecs from Earth,Planet Mass,Stellar Magnitude,Discovery Date,Plan
 GJ 3473 b,27.3644,1.86 Earths,13.74,2020,1.264 x Earth,Super Earth,Transit,0.01589 AU,1.2 days,0
 TOI-540 b,14.0022,0.674 Earths,14.823,2020,0.903 x Earth,Terrestrial,Transit,0.01223 AU,1.2 days,0
 OGLE-2018-BLG-1269L b,2510,0.67 Jupiters,Unknown,2020,1.25 x Jupiter (estimate),Gas Giant,Microlensing,4.51 AU,9.1 years,
-KMT-2019-BLG-0842L b,3320,10.28 Earths,Unknown,2020,0.284 x Jupiter (estimate),Neptune-like,Microlensing,3.31 AU,6.9 years,
+KMT-2019-BLG-0842L b,3320,10.28 Earths,Unknown,2020,,,,,,
 TOI-421 c,74.7969,14.1 Earths,9.931,2020,0.454 x Jupiter,Neptune-like,Transit,0.117 AU,16.1 days,0.19
 TOI-421 b,74.7969,6.7 Earths,9.931,2020,0.236 x Jupiter,Neptune-like,Transit,0.0554 AU,5.2 days,0.13
 TOI-1266 c,36.0118,2.88 Earths,12.941,2020,2.13 x Earth,Neptune-like,Transit,0.1047 AU,18.8 days,< 0.34
@@ -140,7 +140,7 @@ K2-292 b,114.293,24.5 Earths,9.885,2019,0.235 x Jupiter,Neptune-like,Transit,0.1
 TOI-677 b,141.812,1.236 Jupiters,9.822,2020,1.17 x Jupiter,Gas Giant,Transit,0.1038 AU,11.2 days,0.43
 KOI-1783.01,865.73,0.22339 Jupiters,13.978,2020,0.79 x Jupiter,Gas Giant,Transit,0.5135 AU,134.5 days,0
 KOI-1783.02,865.73,15 Earths,13.978,2020,0.485 x Jupiter,Neptune-like,Transit,0.8453 AU,284.2 days,0
-OGLE-TR-56 b,282.8391387,1.39 Jupiters,15.3,2002,1.363 x Jupiter,Gas Giant,Transit,0.02383 AU,1.2 days,< 0.67
+OGLE-TR-56 b,282.8391387,1.39 Jupiters,15.3,2002,,,,,,
 Kepler-1649 c,92.1913,1.2 Earths,17.95,2020,1.06 x Earth,Super Earth,Transit,0.0649 AU,19.5 days,0
 HD 158259 f,27.0498,6.14 Earths,6.47915,2020,0.21 x Jupiter (estimate),Neptune-like,Radial Velocity,Unknown,12 days,
 HD 158259 e,27.0498,6.08 Earths,6.47915,2020,0.209 x Jupiter (estimate),Neptune-like,Radial Velocity,Unknown,8 days,

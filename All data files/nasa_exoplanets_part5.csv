@@ -12,7 +12,7 @@ HD 184010 d,60.7993,0.45 Jupiters,5.88639,2022,1.28 x Jupiter (estimate),Gas Gia
 HD 184010 c,60.7993,0.3 Jupiters,5.88639,2022,1.06 x Jupiter (estimate),Gas Giant,Radial Velocity,1.334 AU,484.3 days,0
 HD 184010 b,60.7993,0.31 Jupiters,5.88639,2022,1.08 x Jupiter (estimate),Gas Giant,Radial Velocity,0.94 AU,286.6 days,0
 TOI-5398 b,130.855,0.18469 Jupiters,10.059,2022,0.919 x Jupiter,Gas Giant,Transit,0.098 AU,10.6 days,< 0.13
-TOI-5238 b,290.646,23.7 Earths,12.214,2022,0.466 x Jupiter,Neptune-like,Transit,Unknown,4.9 days,
+TOI-5238 b,290.646,23.7 Earths,12.214,2022,,,,,,
 TOI-5174 b,197.243,24.8 Earths,11.583,2022,0.477 x Jupiter,Neptune-like,Transit,Unknown,12.2 days,
 TOI-2545 b,107.118,8 Earths,9.521,2022,0.245 x Jupiter,Neptune-like,Transit,Unknown,8 days,
 HD 23472 f,39.0341,0.77 Earths,9.73,2022,1.137 x Earth,Super Earth,Transit,0.0906 AU,12.2 days,0.07
@@ -55,7 +55,7 @@ HD 28185 c,39.3809,19.639 Jupiters,7.8,2022,1.08 x Jupiter (estimate),Gas Giant,
 HD 217786 c,55.4847,7.31005 Earths,7.78,2022,0.233 x Jupiter (estimate),Neptune-like,Radial Velocity,0.038 AU,2.5 days,0.4
 HIP 55507 b,25.4893,8.135 Jupiters,9.8,2022,1.12 x Jupiter (estimate),Gas Giant,Radial Velocity,5.062 AU,14.1 years,0.36
 HD 115404 A c,10.9869,10.319 Jupiters,6.55,2022,1.11 x Jupiter (estimate),Gas Giant,Radial Velocity,11.364 AU,42 years,0.21
-HD 115404 A b,10.9869,30.82936 Earths,6.55,2022,0.543 x Jupiter (estimate),Neptune-like,Radial Velocity,0.088 AU,10.5 days,0.23
+HD 115404 A b,10.9869,30.82936 Earths,6.55,2022,,,,,,
 GJ 9714 b,20.5121,9.403 Jupiters,9.37,2022,1.12 x Jupiter (estimate),Gas Giant,Radial Velocity,12.319 AU,52.7 years,0.15
 HD 199509 b,24.3056,0.136 Jupiters,6.98,2022,0.663 x Jupiter (estimate),Gas Giant,Radial Velocity,0.426 AU,99.6 days,0.37
 HD 18143 c,22.5243,9.998 Jupiters,7.518,2022,1.11 x Jupiter (estimate),Gas Giant,Radial Velocity,17.53 AU,79.4 years,0.19
@@ -125,7 +125,7 @@ TOI-2236 b,355.59,1.58 Jupiters,11.6,2022,1.282 x Jupiter,Gas Giant,Transit,0.05
 TOI-2207 b,373.345,0.64 Jupiters,11.316,2022,0.995 x Jupiter,Gas Giant,Transit,0.0854 AU,8 days,0.17
 TOI-2193 A b,337.064,0.94 Jupiters,11.976,2022,1.77 x Jupiter,Gas Giant,Transit,0.03319 AU,2.1 days,0
 TOI-2196 b,259.947,26 Earths,12.297,2022,0.313 x Jupiter,Neptune-like,Transit,0.02234 AU,1.2 days,0
-OGLE-2019-BLG-0362L b,5830,3.26 Jupiters,Unknown,2022,1.17 x Jupiter (estimate),Gas Giant,Microlensing,2.18 AU,5 years,
+OGLE-2019-BLG-0362L b,5830,3.26 Jupiters,Unknown,2022,,,,,,
 KMT-2020-BLG-0414L c,800,15.4 Jupiters,Unknown,2021,1.09 x Jupiter (estimate),Gas Giant,Microlensing,0.12 AU,29.8 days,
 KMT-2020-BLG-0414L b,800,0.96 Earths,Unknown,2021,0.997 x Earth (estimate),Terrestrial,Microlensing,1.26 AU,2.8 years,
 CoRoT-36 b,925.958,0.68 Jupiters,13.126,2022,1.41 x Jupiter,Gas Giant,Transit,0.066 AU,5.6 days,0

@@ -11,7 +11,7 @@ TOI-2076 c,41.9091,0.17305 Jupiters,9.139,2021,0.33 x Jupiter,Gas Giant,Transit,
 TOI-2076 b,41.9091,16.1 Earths,9.139,2021,2.771 x Earth,Super Earth,Transit,0.088 AU,10.4 days,0
 TOI-1807 b,42.5775,2.44 Earths,10,2021,1.497 x Earth,Super Earth,Transit,0.0122 AU,0.5 days,0
 TOI-1259 A b,118.106,0.441 Jupiters,12.079,2021,1.022 x Jupiter,Gas Giant,Transit,0.0407 AU,3.5 days,0
-TOI-674 b,46.0851,23.6 Earths,14.203,2021,0.468 x Jupiter,Neptune-like,Transit,0.025 AU,2 days,0
+TOI-674 b,46.0851,23.6 Earths,14.203,2021,,,,,,
 TOI-1685 b,37.6153,3.03 Earths,13.378,2021,1.468 x Earth,Super Earth,Transit,0.01138 AU,0.7 days,0
 TOI-1634 b,35.2736,7.57 Earths,13.217,2021,1.773 x Earth,Super Earth,Transit,0.01545 AU,1 days,0
 TOI-1260 c,73.5977,13.2 Earths,11.922,2021,2.76 x Earth,Super Earth,Transit,0.0657 AU,7.5 days,0
@@ -108,12 +108,12 @@ K2-329 b,233.237,0.26 Jupiters,12.697,2020,0.774 x Jupiter,Gas Giant,Transit,0.1
 TOI-451 d,123.739,15.6 Earths,10.939,2020,0.363 x Jupiter,Neptune-like,Transit,0.1208 AU,16.4 days,0
 TOI-451 c,123.739,9.8 Earths,10.939,2020,0.277 x Jupiter,Neptune-like,Transit,0.0823 AU,9.2 days,0
 TOI-451 b,123.739,4.31 Earths,10.939,2020,1.91 x Earth,Super Earth,Transit,0.0283 AU,1.9 days,0
-HD 108236 f,64.5978,4.72 Earths,9.25,2021,2.017 x Earth,Super Earth,Transit,0.1758 AU,29.5 days,0.05
+HD 108236 f,64.5978,4.72 Earths,9.25,2021,,,,,,
 HD 108236 e,64.5978,9.71 Earths,9.25,2020,0.275 x Jupiter,Neptune-like,Transit,0.1367 AU,19.6 days,0.06
-HD 108236 d,64.5978,6.98 Earths,9.25,2020,0.227 x Jupiter,Neptune-like,Transit,0.1074 AU,14.2 days,0.06
+HD 108236 d,64.5978,6.98 Earths,9.25,2020,,,,,,
 HD 108236 c,64.5978,4.94 Earths,9.25,2020,2.071 x Earth,Super Earth,Transit,0.062 AU,6.2 days,0.03
-HD 108236 b,64.5978,3.24 Earths,9.25,2020,1.615 x Earth,Super Earth,Transit,0.04527 AU,3.8 days,0.04
-TOI-776 c,27.1701,6.9 Earths,11.536,2020,2.047 x Earth,Super Earth,Transit,0.1001 AU,15.7 days,0.09
+HD 108236 b,64.5978,3.24 Earths,9.25,2020,,,,,,
+TOI-776 c,27.1701,6.9 Earths,11.536,2020,,,,,,
 TOI-776 b,27.1701,5 Earths,11.536,2020,1.798 x Earth,Super Earth,Transit,0.0653 AU,8.2 days,0.05
 TOI-561 e,85.799,12.6 Earths,10.252,2020,2.55 x Earth,Super Earth,Transit,0.328 AU,77 days,0.08
 TOI-561 d,85.799,13.2 Earths,10.252,2020,2.82 x Earth,Super Earth,Transit,0.158 AU,25.7 days,0.12

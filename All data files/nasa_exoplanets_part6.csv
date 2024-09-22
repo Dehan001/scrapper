@@ -59,7 +59,7 @@ K2-369 b,185.55,2.28 Earths,11.789,2022,1.313 x Earth,Super Earth,Transit,Unknow
 K2-368 b,206.608,2.34 Earths,13.581,2022,1.332 x Earth,Super Earth,Transit,Unknown,5 days,
 K2-367 b,176.965,6.41 Earths,13.794,2022,0.215 x Jupiter,Neptune-like,Transit,Unknown,20.6 days,
 K2-366 b,185.947,6.16 Earths,12.636,2022,0.21 x Jupiter,Neptune-like,Transit,Unknown,15.9 days,
-K2-365 b,187.222,8.78 Earths,11.372,2022,0.259 x Jupiter,Neptune-like,Transit,Unknown,23.4 days,
+K2-365 b,187.222,8.78 Earths,11.372,2022,,,,,,
 HD 73583 c,31.5666,9.7 Earths,9.67,2022,2.39 x Earth,Super Earth,Transit,0.1242 AU,18.9 days,0.08
 HD 73583 b,31.5666,10.2 Earths,9.67,2022,0.249 x Jupiter,Neptune-like,Transit,0.0604 AU,6.4 days,0.09
 EPIC 206317286 c,314.35,5.03 Earths,14.005,2022,2.094 x Earth,Super Earth,Transit,Unknown,17.5 days,
@@ -90,7 +90,7 @@ K2-388 b,290.495,13 Earths,12.861,2022,0.327 x Jupiter,Neptune-like,Transit,Unkn
 K2-386 b,428.785,5.99 Earths,13.241,2022,0.207 x Jupiter,Neptune-like,Transit,Unknown,7.5 days,
 K2-385 b,420.819,2.98 Earths,14.645,2022,1.539 x Earth,Super Earth,Transit,Unknown,2.4 days,
 K2-384 f,82.6603,5.57 Earths,16.12,2022,2.222 x Earth,Neptune-like,Transit,Unknown,13.6 days,
-K2-384 e,82.6603,2.37 Earths,16.12,2022,1.345 x Earth,Super Earth,Transit,Unknown,9.7 days,
+K2-384 e,82.6603,2.37 Earths,16.12,2022,,,,,,
 K2-384 d,82.6603,2.52 Earths,16.12,2022,1.392 x Earth,Super Earth,Transit,Unknown,6.7 days,
 K2-384 c,82.6603,1.82 Earths,16.12,2022,1.191 x Earth,Super Earth,Transit,Unknown,4.2 days,
 K2-380 b,249.303,7.89 Earths,11.688,2022,0.243 x Jupiter,Neptune-like,Transit,Unknown,9.4 days,

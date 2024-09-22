@@ -1,121 +1,151 @@
 Planet Name,Parsecs from Earth,Planet Mass,Stellar Magnitude,Discovery Date,Planet Radius,Planet Type,Discovery Method,Orbital Radius,Orbital Period,Eccentricity
-Kepler-445 c,,6.85 Earths,18.19,2015,0.22 x Jupiter,Neptune-like,Transit,0.0301 AU,4.9 days,0.0
-Kepler-444 e,,0.1 Earths,8.87,2015,0.546 x Earth,Terrestrial,Transit,0.0696 AU,7.7 days,0.1
-Kepler-432 c,,2.43 Jupiters,12.398,2015,1.18 x Jupiter (estimate),Gas Giant,Radial Velocity,Unknown,406.2 days,0.5
-Kepler-24 d,,3.43 Earths,15.04,2014,1.67 x Earth,Super Earth,Transit,0.051 AU,4.2 days,0.0
-Kepler-23 c,,7.81 Earths,13.567,2011,0.268 x Jupiter,Neptune-like,Transit,0.0965 AU,10.7 days,0.02
-Kepler-236 c,,4.66 Earths,16.014,2014,2.0 x Earth,Super Earth,Transit,0.132 AU,24 days,0.0
-Kepler-235 c,,2.18 Earths,16.567,2014,1.28 x Earth,Super Earth,Transit,0.065 AU,7.8 days,0.0
-Kepler-233 c,,7.8 Earths,15.477,2014,0.242 x Jupiter,Neptune-like,Transit,0.287 AU,60.4 days,0.0
-Kepler-231 b,,35.4 Earths,15.813,2014,1.73 x Earth,Super Earth,Transit,0.074 AU,10.1 days,0.0
-Kepler-229 c,,21.5 Earths,16.22,2014,0.439 x Jupiter,Neptune-like,Transit,0.117 AU,16.1 days,0.0
-Kepler-228 b,,2.96 Earths,15.902,2014,1.53 x Earth,Super Earth,Transit,0.038 AU,2.6 days,0.0
-Kepler-226 c,,0.142 Jupiters,15.563,2014,2.27 x Earth,Super Earth,Transit,0.058 AU,5.3 days,0.0
-KELT-7 b,,1.39 Jupiters,8.56,2015,1.6 x Jupiter,Gas Giant,Transit,0.04415 AU,2.7 days,0.0
-K2-34 b,,1.698 Jupiters,11.447,2016,1.227 x Jupiter,Gas Giant,Transit,0.0442 AU,3 days,0.0
-HATS-17 b,,1.338 Jupiters,12.402,2016,0.777 x Jupiter,Gas Giant,Transit,0.1308 AU,16.3 days,0.03
-Kepler-793 b,,2.45 Earths,14.742,2016,,,,,,
-Kepler-792 b,,4.5 Earths,15.117,2016,1.96 x Earth,Super Earth,Transit,0.0988 AU,11.3 days,0.0
-Kepler-790 b,,5.39 Earths,15.534,2016,2.18 x Earth,Neptune-like,Transit,0.101 AU,13.7 days,0.0
-Kepler-789 b,,5.14 Earths,14.723,2016,2.12 x Earth,Neptune-like,Transit,0.0951 AU,8.6 days,0.0
-Kepler-788 b,,7.04 Earths,15.45,2016,0.227 x Jupiter,Neptune-like,Transit,0.0835 AU,8.4 days,0.0
-Kepler-787 b,,2.18 Earths,16.696,2016,1.28 x Earth,Super Earth,Transit,0.0159 AU,0.9 days,0.0
-Kepler-785 b,,Unknown,16.315,2016,1.162 x Jupiter,Gas Giant,Transit,0.025 AU,2 days,0.0
-Kepler-784 b,,3.12 Earths,13.392,2016,1.58 x Earth,Super Earth,Transit,0.1967 AU,31.6 days,0.0
-Kepler-450 c,,12.5 Earths,11.991,2015,2.62 x Earth,Super Earth,Transit,0.1324 AU,15.4 days,0.02
-Kepler-450 b,,19.4 Earths,11.991,2015,0.548 x Jupiter,Neptune-like,Transit,0.1993 AU,28.5 days,0.02
-Kepler-449 c,,8.07 Earths,11.448,2015,0.247 x Jupiter,Neptune-like,Transit,0.1979 AU,33.7 days,0.05
-Kepler-449 b,,4.88 Earths,11.448,2015,2.056 x Earth,Super Earth,Transit,0.1027 AU,12.6 days,0.03
-Kepler-272 b,,0.245 Jupiters,14.811,2014,1.43 x Earth,Super Earth,Transit,0.038 AU,3 days,0.0
-Kepler-271 c,,0.809 Earths,13.578,2014,0.95 x Earth,Terrestrial,Transit,0.0702 AU,7.4 days,0.0
-Kepler-271 b,,2.04 Earths,13.578,2014,1.23 x Earth,Super Earth,Transit,0.0881 AU,10.4 days,0.0
-Kepler-270 c,,3.78 Earths,13.9,2014,1.77 x Earth,Super Earth,Transit,0.18 AU,25.3 days,0.0
-Kepler-270 b,,4.7 Earths,13.9,2014,2.01 x Earth,Super Earth,Transit,0.107 AU,11.5 days,0.0
-Kepler-269 b,,6.66 Earths,15.646,2014,0.22 x Jupiter,Neptune-like,Transit,0.061 AU,5.3 days,0.0
-Kepler-268 c,,11.4 Earths,13.844,2014,0.302 x Jupiter,Neptune-like,Transit,0.391 AU,83.4 days,0.0
-Kepler-268 b,,7.04 Earths,13.844,2014,0.227 x Jupiter,Neptune-like,Transit,0.18 AU,25.9 days,0.0
-Kepler-267 d,,5.77 Earths,16.69,2014,0.203 x Jupiter,Neptune-like,Transit,0.154 AU,28.5 days,0.0
-Kepler-267 b,,37.9 Earths,16.69,2014,1.98 x Earth,Super Earth,Transit,0.037 AU,3.4 days,0.0
-Kepler-266 c,,14.4 Earths,15.787,2014,0.347 x Jupiter,Neptune-like,Transit,0.457 AU,107.7 days,0.0
-Kepler-266 b,,6.71 Earths,15.787,2014,0.221 x Jupiter,Neptune-like,Transit,0.071 AU,6.6 days,0.0
-Kepler-265 d,,6.76 Earths,15.47,2014,0.222 x Jupiter,Neptune-like,Transit,0.236 AU,43.1 days,0.0
-Kepler-265 c,,7.41 Earths,15.47,2014,0.235 x Jupiter,Neptune-like,Transit,0.127 AU,17 days,0.0
-Kepler-265 b,,4.12 Earths,15.47,2014,1.86 x Earth,Super Earth,Transit,0.069 AU,6.8 days,0.0
-Kepler-264 b,,11.1 Earths,13.15,2014,0.297 x Jupiter,Neptune-like,Transit,0.249 AU,40.8 days,0.0
-Kepler-263 c,,6.66 Earths,15.435,2014,0.22 x Jupiter,Neptune-like,Transit,0.242 AU,47.3 days,0.0
-Kepler-263 b,,7.61 Earths,15.435,2014,0.238 x Jupiter,Neptune-like,Transit,0.12 AU,16.6 days,0.0
-Kepler-262 c,,3.33 Earths,14.478,2014,1.64 x Earth,Super Earth,Transit,0.152 AU,21.9 days,0.0
-Kepler-261 c,,4.66 Earths,13.738,2014,2.0 x Earth,Super Earth,Transit,0.156 AU,24.6 days,0.0
-Kepler-261 b,,5.39 Earths,13.738,2014,2.18 x Earth,Neptune-like,Transit,0.088 AU,10.4 days,0.0
-Kepler-260 c,,3.68 Earths,14.253,2014,1.74 x Earth,Super Earth,Transit,0.332 AU,76.1 days,0.0
-Kepler-259 c,,7.75 Earths,15.378,2014,0.241 x Jupiter,Neptune-like,Transit,0.217 AU,36.9 days,0.0
-Kepler-259 b,,8.25 Earths,15.378,2014,0.25 x Jupiter,Neptune-like,Transit,0.079 AU,8.1 days,0.0
-HATS-9 b,,0.837 Jupiters,13.256,2015,1.236 x Jupiter,Gas Giant,Transit,0.0312 AU,1.9 days,< 0.075
-HATS-10 b,,0.526 Jupiters,13.202,2015,0.969 x Jupiter,Gas Giant,Transit,0.04491 AU,3.3 days,< 0.501
-WASP-8 c,,9.45 Jupiters,9.789,2013,1.12 x Jupiter (estimate),Gas Giant,Radial Velocity,5.28 AU,11.8 years,0.0
-WASP-8 b,,2.54 Jupiters,9.789,2010,1.13 x Jupiter,Gas Giant,Transit,0.0801 AU,8.2 days,0.31
-WASP-6 b,,0.37 Jupiters,11.907,2009,1.03 x Jupiter,Gas Giant,Transit,0.04217 AU,3.4 days,0.05
-WASP-5 b,,1.58 Jupiters,12.147,2008,1.087 x Jupiter,Gas Giant,Transit,0.0267 AU,1.6 days,0.04
-WASP-4 b,,1.186 Jupiters,12.483,2007,1.321 x Jupiter,Gas Giant,Transit,0.0226 AU,1.3 days,0.0
-WASP-3 b,,2.43 Jupiters,10.632,2007,1.42 x Jupiter,Gas Giant,Transit,0.0315 AU,1.8 days,0.0
-WASP-23 b,,0.884 Jupiters,12.539,2010,0.962 x Jupiter,Gas Giant,Transit,0.0376 AU,2.9 days,< 0.062
-WASP-22 b,,0.67 Jupiters,11.99,2010,1.23 x Jupiter,Gas Giant,Transit,0.047 AU,3.5 days,0.02
-WASP-21 b,,0.3 Jupiters,11.59,2010,1.07 x Jupiter,Gas Giant,Transit,0.052 AU,4.3 days,0.0
-WASP-20 b,,0.311 Jupiters,10.675,2015,1.462 x Jupiter,Gas Giant,Transit,0.06 AU,4.9 days,0.0
-WASP-1 b,,0.854 Jupiters,11.308,2007,1.483 x Jupiter,Gas Giant,Transit,0.03889 AU,2.5 days,0.0
-WASP-19 b,,1.154 Jupiters,12.248,2009,1.415 x Jupiter,Gas Giant,Transit,0.01652 AU,0.8 days,0.01
-WASP-18 b,,10.2 Jupiters,9.28,2009,1.24 x Jupiter,Gas Giant,Transit,0.02024 AU,0.9 days,0.01
-WASP-17 b,,0.78 Jupiters,11.588,2009,1.87 x Jupiter,Gas Giant,Transit,0.0515 AU,3.7 days,0.0
-WASP-15 b,,0.54 Jupiters,10.972,2009,1.41 x Jupiter,Gas Giant,Transit,0.05165 AU,3.8 days,0.0
-WASP-14 b,,8.84 Jupiters,9.745,2008,1.38 x Jupiter,Gas Giant,Transit,0.037 AU,2.2 days,0.09
-WASP-13 b,,0.36 Jupiters,10.424,2009,1.22 x Jupiter,Gas Giant,Transit,0.05362 AU,4.4 days,0.0
-WASP-11 b,,0.79 Jupiters,11.567,2008,1.11 x Jupiter,Gas Giant,Transit,0.0435 AU,3.7 days,0.0
-WASP-10 b,,3.15 Jupiters,12.413,2008,1.08 x Jupiter,Gas Giant,Transit,0.03781 AU,3.1 days,0.05
-Kepler-783 b,,0.399 Earths,14.153,2016,0.78 x Earth,Terrestrial,Transit,0.0491 AU,4.3 days,0.0
-Kepler-782 b,,10.4 Earths,12.843,2016,0.286 x Jupiter,Neptune-like,Transit,0.5444 AU,158.7 days,0.0
-Kepler-780 b,,0.64 Earths,13.464,2016,0.89 x Earth,Terrestrial,Transit,0.015 AU,0.7 days,0.0
-Kepler-1266 b,,7.18 Earths,16.016,2016,0.23 x Jupiter,Neptune-like,Transit,0.1689 AU,28.5 days,0.0
-Kepler-1265 b,,2.39 Earths,16.024,2016,1.35 x Earth,Super Earth,Transit,0.0612 AU,6.5 days,0.0
-Kepler-1264 b,,1.76 Earths,14.629,2016,1.18 x Earth,Super Earth,Transit,0.0191 AU,1 days,0.0
-Kepler-1262 b,,3.97 Earths,15.155,2016,1.82 x Earth,Super Earth,Transit,0.083 AU,8.7 days,0.0
-Kepler-1261 b,,5.73 Earths,15.817,2016,0.202 x Jupiter,Neptune-like,Transit,0.239 AU,48.4 days,0.0
-Kepler-1260 b,,3.78 Earths,14.953,2016,,,,,,
-Kepler-1259 b,,2.63 Earths,15.556,2016,1.43 x Earth,Super Earth,Transit,0.0141 AU,0.7 days,0.0
-Kepler-1257 b,,2.92 Earths,15.644,2016,1.52 x Earth,Super Earth,Transit,0.0376 AU,2.7 days,0.0
-Kepler-1256 b,,2.83 Earths,13.685,2016,1.49 x Earth,Super Earth,Transit,0.1063 AU,12.4 days,0.0
-Kepler-1255 b,,5.99 Earths,15.308,2016,0.207 x Jupiter,Neptune-like,Transit,0.2226 AU,36.3 days,0.0
-Kepler-1254 c,,2.24 Earths,15.541,2016,1.3 x Earth,Super Earth,Transit,0.0422 AU,3.6 days,0.0
-Kepler-1254 b,,3.02 Earths,15.541,2016,1.55 x Earth,Super Earth,Transit,0.0833 AU,10 days,0.0
-Kepler-1253 b,,2.33 Earths,12.588,2016,1.33 x Earth,Super Earth,Transit,0.3133 AU,68.9 days,0.0
-Kepler-1252 b,,3.43 Earths,14.743,2016,1.67 x Earth,Super Earth,Transit,0.1078 AU,15.1 days,0.0
-Kepler-1250 b,,4.35 Earths,15.693,2016,1.92 x Earth,Super Earth,Transit,0.0393 AU,2.6 days,0.0
-Kepler-1249 b,,6.26 Earths,15.391,2016,,,,,,
-Kepler-1248 b,,1.76 Earths,12.9,2016,1.18 x Earth,Super Earth,Transit,0.0806 AU,7.5 days,0.0
-TrES-5 b,,1.79 Jupiters,13.677,2011,1.194 x Jupiter,Gas Giant,Transit,0.02459 AU,1.5 days,< 0.03
-TrES-4 b,,0.78 Jupiters,11.932,2007,1.61 x Jupiter,Gas Giant,Transit,0.05084 AU,3.6 days,0.0
-TrES-3 b,,1.91 Jupiters,12.362,2007,1.336 x Jupiter,Gas Giant,Transit,0.02282 AU,1.3 days,0.0
-Kepler-775 b,,1.81 Earths,13.564,2016,1.19 x Earth,Super Earth,Transit,0.0187 AU,1 days,0.0
-Kepler-774 b,,10.2 Earths,12.886,2016,0.283 x Jupiter,Neptune-like,Transit,0.1114 AU,11.1 days,0.0
-Kepler-773 b,,2.63 Earths,13.387,2016,1.43 x Earth,Super Earth,Transit,0.047 AU,3.7 days,0.0
-Kepler-772 b,,3.97 Earths,14.145,2016,1.82 x Earth,Super Earth,Transit,0.1071 AU,13 days,0.0
-Kepler-771 b,,3.97 Earths,14.958,2016,1.82 x Earth,Super Earth,Transit,0.0843 AU,8.7 days,0.0
-Kepler-770 d,,2.54 Earths,14.852,2016,1.4 x Earth,Super Earth,Transit,0.0616 AU,4.2 days,0.0
-Kepler-770 c,,1.87 Earths,14.852,2016,1.2 x Earth,Super Earth,Transit,0.0309 AU,1.5 days,0.0
-Kepler-770 b,,5.9 Earths,14.852,2016,0.205 x Jupiter,Neptune-like,Transit,0.1694 AU,18.9 days,0.0
-Kepler-769 c,,3.86 Earths,14.984,2016,1.79 x Earth,Super Earth,Transit,0.1297 AU,16 days,0.0
-Kepler-769 b,,8.85 Earths,14.984,2016,0.261 x Jupiter,Neptune-like,Transit,0.0778 AU,7.4 days,0.0
-Kepler-768 b,,3.86 Earths,15.969,2016,,,,,,
-Kepler-767 b,,35.7 Earths,15.678,2016,0.592 x Jupiter,Neptune-like,Transit,0.5874 AU,161.5 days,0.0
-Kepler-766 b,,11.4 Earths,15.825,2016,0.302 x Jupiter,Neptune-like,Transit,0.066 AU,6.1 days,0.0
-Kepler-765 b,,6.48 Earths,14.709,2016,0.217 x Jupiter,Neptune-like,Transit,0.1754 AU,27.7 days,0.0
-Kepler-764 b,,3.33 Earths,15.555,2016,1.64 x Earth,Super Earth,Transit,0.0724 AU,7.3 days,0.0
-Kepler-763 b,,1.98 Earths,15.965,2016,1.22 x Earth,Super Earth,Transit,0.0205 AU,1.2 days,0.0
-Kepler-762 b,,Unknown,15.574,2016,1.131 x Jupiter,Gas Giant,Transit,0.0493 AU,3.8 days,0.0
-Kepler-761 b,,4.78 Earths,14.993,2016,2.03 x Earth,Super Earth,Transit,0.0874 AU,10.1 days,0.0
-Kepler-760 c,,2.79 Earths,15.181,2016,1.48 x Earth,Super Earth,Transit,0.0333 AU,2.5 days,0.0
-Kepler-760 b,,9.59 Earths,15.181,2016,0.273 x Jupiter,Neptune-like,Transit,0.0772 AU,8.7 days,0.0
-Kepler-759 b,,5.77 Earths,14.579,2016,0.203 x Jupiter,Neptune-like,Transit,0.2329 AU,41.8 days,0.0
-Kepler-758 e,,2.96 Earths,14.379,2016,1.53 x Earth,Super Earth,Transit,0.0785 AU,8.2 days,0.0
-Kepler-758 d,,5.14 Earths,14.379,2016,2.12 x Earth,Neptune-like,Transit,0.1447 AU,20.5 days,0.0
-Kepler-758 c,,3.5 Earths,14.379,2016,,,,,,
-Kepler-758 b,,6.71 Earths,14.379,2016,,,,,,
+Kepler-452 b,551.727,3.29 Earths,13.54,2015,1.63 x Earth,Super Earth,Transit,1.046 AU,384.8 days,0
+Kepler-450 d,455.982,17.6 Earths,11.991,2015,0.837 x Earth,Super Earth,Transit,0.082 AU,7.5 days,0.14
+Kepler-446 c,96.339,1.41 Earths,17.5041,2015,1.11 x Earth,Super Earth,Transit,0.0283 AU,3 days,0
+Kepler-445 c,127.201,6.85 Earths,18.19,2015,0.22 x Jupiter,Neptune-like,Transit,0.0301 AU,4.9 days,0
+Kepler-444 e,36.4396,0.1 Earths,8.87,2015,0.546 x Earth,Terrestrial,Transit,0.0696 AU,7.7 days,0.1
+Kepler-432 c,848.023,2.43 Jupiters,12.398,2015,1.18 x Jupiter (estimate),Gas Giant,Radial Velocity,Unknown,406.2 days,0.5
+Kepler-24 d,1156.81,3.43 Earths,15.04,2014,1.67 x Earth,Super Earth,Transit,0.051 AU,4.2 days,0
+Kepler-23 c,835.756,7.81 Earths,13.567,2011,0.268 x Jupiter,Neptune-like,Transit,0.0965 AU,10.7 days,0.02
+Kepler-236 c,288.763,4.66 Earths,16.014,2014,2.0 x Earth,Super Earth,Transit,0.132 AU,24 days,0
+Kepler-235 c,428.018,2.18 Earths,16.567,2014,1.28 x Earth,Super Earth,Transit,0.065 AU,7.8 days,0
+Kepler-233 c,856.417,7.8 Earths,15.477,2014,0.242 x Jupiter,Neptune-like,Transit,0.287 AU,60.4 days,0
+Kepler-231 b,316.618,35.4 Earths,15.813,2014,1.73 x Earth,Super Earth,Transit,0.074 AU,10.1 days,0
+Kepler-229 c,826.265,21.5 Earths,16.22,2014,0.439 x Jupiter,Neptune-like,Transit,0.117 AU,16.1 days,0
+Kepler-228 b,1644.61,2.96 Earths,15.902,2014,1.53 x Earth,Super Earth,Transit,0.038 AU,2.6 days,0
+Kepler-226 c,980.138,0.142 Jupiters,15.563,2014,2.27 x Earth,Super Earth,Transit,0.058 AU,5.3 days,0
+KELT-7 b,136.681,1.39 Jupiters,8.56,2015,1.6 x Jupiter,Gas Giant,Transit,0.04415 AU,2.7 days,0
+K2-34 b,348.646,1.698 Jupiters,11.447,2016,1.227 x Jupiter,Gas Giant,Transit,0.0442 AU,3 days,0
+HATS-17 b,400.331,1.338 Jupiters,12.402,2016,0.777 x Jupiter,Gas Giant,Transit,0.1308 AU,16.3 days,0.03
+HAT-P-56 b,320.639,2.31 Jupiters,10.92,2015,1.51 x Jupiter,Gas Giant,Transit,0.0423 AU,2.8 days,< 0.29
+HAT-P-55 b,511.388,0.596 Jupiters,13.197,2015,1.324 x Jupiter,Gas Giant,Transit,0.04628 AU,3.6 days,< 0.17
+XO-5 b,276.211,1.19 Jupiters,12.198,2008,1.14 x Jupiter,Gas Giant,Transit,0.0515 AU,4.2 days,0
+XO-3 b,213.053,7.29 Jupiters,9.854,2007,1.41 x Jupiter,Gas Giant,Transit,0.0476 AU,3.2 days,0.29
+Kepler-806 b,361.896,1.55 Earths,11.813,2016,1.14 x Earth,Super Earth,Transit,0.0764 AU,8.1 days,0
+Kepler-805 b,638.49,8.7 Earths,12.586,2016,0.258 x Jupiter,Neptune-like,Transit,0.1978 AU,30.9 days,0
+Kepler-804 b,649.65,4.42 Earths,13.864,2016,1.94 x Earth,Super Earth,Transit,0.1137 AU,14.4 days,0
+Kepler-803 b,639.771,13.8 Earths,13.856,2016,0.338 x Jupiter,Neptune-like,Transit,0.2678 AU,50.3 days,0
+Kepler-802 b,780.585,12.3 Earths,15.01,2016,0.316 x Jupiter,Neptune-like,Transit,0.2265 AU,40.1 days,0
+Kepler-801 b,440.426,4.66 Earths,15.596,2016,2.0 x Earth,Super Earth,Transit,0.0795 AU,11.4 days,0
+Kepler-799 b,1509.084,37.9 Earths,15.166,2016,0.614 x Jupiter,Neptune-like,Transit,0.5167 AU,133.5 days,0
+Kepler-798 b,972.274,6.3 Earths,14.221,2016,0.213 x Jupiter,Neptune-like,Transit,0.1174 AU,13.7 days,0
+Kepler-797 b,1315.26,5.35 Earths,14.751,2016,2.17 x Earth,Neptune-like,Transit,0.181 AU,27.1 days,0
+Kepler-795 b,492.122,3.46 Earths,13.423,2016,1.68 x Earth,Super Earth,Transit,0.1817 AU,29.6 days,0
+Kepler-794 b,931.192,5.1 Earths,13.599,2016,2.11 x Earth,Neptune-like,Transit,0.1036 AU,11.1 days,0
+Kepler-793 b,985.699,2.45 Earths,14.742,2016,1.37 x Earth,Super Earth,Transit,0.0491 AU,4.2 days,0
+Kepler-792 b,1425.47,4.5 Earths,15.117,2016,1.96 x Earth,Super Earth,Transit,0.0988 AU,11.3 days,0
+Kepler-790 b,703.168,5.39 Earths,15.534,2016,2.18 x Earth,Neptune-like,Transit,0.101 AU,13.7 days,0
+Kepler-789 b,1480.16,5.14 Earths,14.723,2016,2.12 x Earth,Neptune-like,Transit,0.0951 AU,8.6 days,0
+Kepler-788 b,1775.8,7.04 Earths,15.45,2016,0.227 x Jupiter,Neptune-like,Transit,0.0835 AU,8.4 days,0
+Kepler-787 b,503.568,2.18 Earths,16.696,2016,1.28 x Earth,Super Earth,Transit,0.0159 AU,0.9 days,0
+Kepler-785 b,642.051,Unknown,16.315,2016,1.162 x Jupiter,Gas Giant,Transit,0.025 AU,2 days,0
+Kepler-784 b,1303.72,3.12 Earths,13.392,2016,1.58 x Earth,Super Earth,Transit,0.1967 AU,31.6 days,0
+Kepler-450 c,455.982,12.5 Earths,11.991,2015,2.62 x Earth,Super Earth,Transit,0.1324 AU,15.4 days,0.02
+Kepler-450 b,455.982,19.4 Earths,11.991,2015,0.548 x Jupiter,Neptune-like,Transit,0.1993 AU,28.5 days,0.02
+Kepler-449 c,241.949,8.07 Earths,11.448,2015,0.247 x Jupiter,Neptune-like,Transit,0.1979 AU,33.7 days,0.05
+Kepler-449 b,241.949,4.88 Earths,11.448,2015,2.056 x Earth,Super Earth,Transit,0.1027 AU,12.6 days,0.03
+Kepler-272 b,889.608,0.245 Jupiters,14.811,2014,1.43 x Earth,Super Earth,Transit,0.038 AU,3 days,0
+Kepler-271 c,404.542,0.809 Earths,13.578,2014,0.95 x Earth,Terrestrial,Transit,0.0702 AU,7.4 days,0
+Kepler-271 b,404.542,2.04 Earths,13.578,2014,1.23 x Earth,Super Earth,Transit,0.0881 AU,10.4 days,0
+Kepler-270 c,948.781,3.78 Earths,13.9,2014,1.77 x Earth,Super Earth,Transit,0.18 AU,25.3 days,0
+Kepler-270 b,948.781,4.7 Earths,13.9,2014,2.01 x Earth,Super Earth,Transit,0.107 AU,11.5 days,0
+Kepler-269 b,2257.32,6.66 Earths,15.646,2014,0.22 x Jupiter,Neptune-like,Transit,0.061 AU,5.3 days,0
+Kepler-268 c,851.87,11.4 Earths,13.844,2014,0.302 x Jupiter,Neptune-like,Transit,0.391 AU,83.4 days,0
+Kepler-268 b,851.87,7.04 Earths,13.844,2014,0.227 x Jupiter,Neptune-like,Transit,0.18 AU,25.9 days,0
+Kepler-267 d,264.993,5.77 Earths,16.69,2014,0.203 x Jupiter,Neptune-like,Transit,0.154 AU,28.5 days,0
+Kepler-267 b,264.993,37.9 Earths,16.69,2014,1.98 x Earth,Super Earth,Transit,0.037 AU,3.4 days,0
+Kepler-266 c,1370.79,14.4 Earths,15.787,2014,0.347 x Jupiter,Neptune-like,Transit,0.457 AU,107.7 days,0
+Kepler-266 b,1370.79,6.71 Earths,15.787,2014,0.221 x Jupiter,Neptune-like,Transit,0.071 AU,6.6 days,0
+Kepler-265 d,1280.25,6.76 Earths,15.47,2014,0.222 x Jupiter,Neptune-like,Transit,0.236 AU,43.1 days,0
+Kepler-265 c,1280.25,7.41 Earths,15.47,2014,0.235 x Jupiter,Neptune-like,Transit,0.127 AU,17 days,0
+Kepler-265 b,1280.25,4.12 Earths,15.47,2014,1.86 x Earth,Super Earth,Transit,0.069 AU,6.8 days,0
+Kepler-264 b,942.173,11.1 Earths,13.15,2014,0.297 x Jupiter,Neptune-like,Transit,0.249 AU,40.8 days,0
+Kepler-263 c,754.747,6.66 Earths,15.435,2014,0.22 x Jupiter,Neptune-like,Transit,0.242 AU,47.3 days,0
+Kepler-263 b,754.747,7.61 Earths,15.435,2014,0.238 x Jupiter,Neptune-like,Transit,0.12 AU,16.6 days,0
+Kepler-262 c,613.129,3.33 Earths,14.478,2014,1.64 x Earth,Super Earth,Transit,0.152 AU,21.9 days,0
+Kepler-261 c,317.499,4.66 Earths,13.738,2014,2.0 x Earth,Super Earth,Transit,0.156 AU,24.6 days,0
+Kepler-261 b,317.499,5.39 Earths,13.738,2014,2.18 x Earth,Neptune-like,Transit,0.088 AU,10.4 days,0
+Kepler-260 c,627.365,3.68 Earths,14.253,2014,1.74 x Earth,Super Earth,Transit,0.332 AU,76.1 days,0
+Kepler-259 c,1002.14,7.75 Earths,15.378,2014,0.241 x Jupiter,Neptune-like,Transit,0.217 AU,36.9 days,0
+Kepler-259 b,1002.14,8.25 Earths,15.378,2014,0.25 x Jupiter,Neptune-like,Transit,0.079 AU,8.1 days,0
+HATS-9 b,638.7,0.837 Jupiters,13.256,2015,1.236 x Jupiter,Gas Giant,Transit,0.0312 AU,1.9 days,< 0.075
+HATS-10 b,534.889,0.526 Jupiters,13.202,2015,0.969 x Jupiter,Gas Giant,Transit,0.04491 AU,3.3 days,< 0.501
+WASP-8 c,89.9606,9.45 Jupiters,9.789,2013,1.12 x Jupiter (estimate),Gas Giant,Radial Velocity,5.28 AU,11.8 years,0
+WASP-8 b,89.9606,2.54 Jupiters,9.789,2010,1.13 x Jupiter,Gas Giant,Transit,0.0801 AU,8.2 days,0.31
+WASP-6 b,197.119,0.37 Jupiters,11.907,2009,1.03 x Jupiter,Gas Giant,Transit,0.04217 AU,3.4 days,0.05
+WASP-5 b,309.137,1.58 Jupiters,12.147,2008,1.087 x Jupiter,Gas Giant,Transit,0.0267 AU,1.6 days,0.04
+WASP-4 b,267.206,1.186 Jupiters,12.483,2007,1.321 x Jupiter,Gas Giant,Transit,0.0226 AU,1.3 days,0
+WASP-3 b,231.161,2.43 Jupiters,10.632,2007,1.42 x Jupiter,Gas Giant,Transit,0.0315 AU,1.8 days,0
+WASP-23 b,207.49,0.884 Jupiters,12.539,2010,0.962 x Jupiter,Gas Giant,Transit,0.0376 AU,2.9 days,< 0.062
+WASP-22 b,317.652,0.67 Jupiters,11.99,2010,1.23 x Jupiter,Gas Giant,Transit,0.047 AU,3.5 days,0.02
+WASP-21 b,258.426,0.3 Jupiters,11.59,2010,1.07 x Jupiter,Gas Giant,Transit,0.052 AU,4.3 days,0
+WASP-20 b,211.877,0.311 Jupiters,10.675,2015,1.462 x Jupiter,Gas Giant,Transit,0.06 AU,4.9 days,0
+WASP-1 b,393.072,0.854 Jupiters,11.308,2007,1.483 x Jupiter,Gas Giant,Transit,0.03889 AU,2.5 days,0
+WASP-19 b,268.325,1.154 Jupiters,12.248,2009,1.415 x Jupiter,Gas Giant,Transit,0.01652 AU,0.8 days,0.01
+WASP-18 b,123.483,10.2 Jupiters,9.28,2009,1.24 x Jupiter,Gas Giant,Transit,0.02024 AU,0.9 days,0.01
+WASP-17 b,405.908,0.78 Jupiters,11.588,2009,1.87 x Jupiter,Gas Giant,Transit,0.0515 AU,3.7 days,0
+WASP-15 b,282.091,0.54 Jupiters,10.972,2009,1.41 x Jupiter,Gas Giant,Transit,0.05165 AU,3.8 days,0
+WASP-14 b,161.997,8.84 Jupiters,9.745,2008,1.38 x Jupiter,Gas Giant,Transit,0.037 AU,2.2 days,0.09
+WASP-13 b,227.537,0.36 Jupiters,10.424,2009,1.22 x Jupiter,Gas Giant,Transit,0.05362 AU,4.4 days,0
+WASP-11 b,124.73,0.79 Jupiters,11.567,2008,1.11 x Jupiter,Gas Giant,Transit,0.0435 AU,3.7 days,0
+WASP-10 b,140.998,3.15 Jupiters,12.413,2008,1.08 x Jupiter,Gas Giant,Transit,0.03781 AU,3.1 days,0.05
+Kepler-783 b,516.09,0.399 Earths,14.153,2016,0.78 x Earth,Terrestrial,Transit,0.0491 AU,4.3 days,0
+Kepler-782 b,446.844,10.4 Earths,12.843,2016,0.286 x Jupiter,Neptune-like,Transit,0.5444 AU,158.7 days,0
+Kepler-780 b,557.652,0.64 Earths,13.464,2016,0.89 x Earth,Terrestrial,Transit,0.015 AU,0.7 days,0
+Kepler-779 b,283.155,0.721 Earths,16.303,2016,0.92 x Earth,Terrestrial,Transit,0.0533 AU,7.1 days,0
+Kepler-778 b,938.168,3.46 Earths,15.959,2016,1.68 x Earth,Super Earth,Transit,0.0453 AU,3.8 days,0
+Kepler-776 b,727.904,2.18 Earths,15.562,2016,1.28 x Earth,Super Earth,Transit,0.0523 AU,4.9 days,0
+Kepler-436 c,588.867,6.04 Earths,15.971,2016,0.208 x Jupiter,Neptune-like,Transit,0.1158 AU,16.8 days,0
+Kepler-271 d,404.542,0.219 Earths,13.578,2016,0.66 x Earth,Terrestrial,Transit,0.0558 AU,5.2 days,0
+Kepler-224 d,782.088,5.9 Earths,15.801,2014,0.205 x Jupiter,Neptune-like,Transit,0.089 AU,11.3 days,0
+Kepler-223 d,1859.71,8 Earths,15.69,2014,0.467 x Jupiter,Neptune-like,Transit,0.1201 AU,14.8 days,0.04
+Kepler-222 c,758.854,19.4 Earths,15.407,2014,0.414 x Jupiter,Neptune-like,Transit,0.091 AU,10.1 days,0
+Kepler-221 b,385.231,3.57 Earths,13.97,2014,1.71 x Earth,Super Earth,Transit,0.037 AU,2.8 days,0
+Kepler-1274 b,614.648,2.6 Earths,11.717,2016,1.42 x Earth,Super Earth,Transit,0.0806 AU,7 days,0
+Kepler-1273 b,1114.24,6.76 Earths,16.03,2016,0.222 x Jupiter,Neptune-like,Transit,0.1857 AU,28.6 days,0
+Kepler-1271 b,831.991,2.79 Earths,14.075,2016,1.48 x Earth,Super Earth,Transit,0.0418 AU,3 days,0
+Kepler-1270 b,1095.05,11 Earths,13.562,2016,0.296 x Jupiter,Neptune-like,Transit,0.0663 AU,6 days,0
+Kepler-1269 b,1097.23,3.29 Earths,13.658,2016,1.63 x Earth,Super Earth,Transit,0.226 AU,37.3 days,0
+Kepler-1267 b,1379.43,9.32 Earths,15.846,2016,0.269 x Jupiter,Neptune-like,Transit,0.1057 AU,13 days,0
+Kepler-1266 b,849.312,7.18 Earths,16.016,2016,0.23 x Jupiter,Neptune-like,Transit,0.1689 AU,28.5 days,0
+Kepler-1265 b,583.641,2.39 Earths,16.024,2016,1.35 x Earth,Super Earth,Transit,0.0612 AU,6.5 days,0
+Kepler-1264 b,801.993,1.76 Earths,14.629,2016,1.18 x Earth,Super Earth,Transit,0.0191 AU,1 days,0
+Kepler-1262 b,1054.87,3.97 Earths,15.155,2016,1.82 x Earth,Super Earth,Transit,0.083 AU,8.7 days,0
+Kepler-1261 b,744.294,5.73 Earths,15.817,2016,0.202 x Jupiter,Neptune-like,Transit,0.239 AU,48.4 days,0
+Kepler-1260 b,1734.43,3.78 Earths,14.953,2016,,,,,,
+Kepler-1259 b,805.562,2.63 Earths,15.556,2016,1.43 x Earth,Super Earth,Transit,0.0141 AU,0.7 days,0
+Kepler-1257 b,1105.95,2.92 Earths,15.644,2016,1.52 x Earth,Super Earth,Transit,0.0376 AU,2.7 days,0
+Kepler-1256 b,891.192,2.83 Earths,13.685,2016,1.49 x Earth,Super Earth,Transit,0.1063 AU,12.4 days,0
+Kepler-1255 b,1617.07,5.99 Earths,15.308,2016,0.207 x Jupiter,Neptune-like,Transit,0.2226 AU,36.3 days,0
+Kepler-1254 c,622.818,2.24 Earths,15.541,2016,1.3 x Earth,Super Earth,Transit,0.0422 AU,3.6 days,0
+Kepler-1254 b,622.818,3.02 Earths,15.541,2016,1.55 x Earth,Super Earth,Transit,0.0833 AU,10 days,0
+Kepler-1253 b,514.524,2.33 Earths,12.588,2016,1.33 x Earth,Super Earth,Transit,0.3133 AU,68.9 days,0
+Kepler-1252 b,648.979,3.43 Earths,14.743,2016,1.67 x Earth,Super Earth,Transit,0.1078 AU,15.1 days,0
+Kepler-1250 b,2126.85,4.35 Earths,15.693,2016,1.92 x Earth,Super Earth,Transit,0.0393 AU,2.6 days,0
+Kepler-1249 b,1904.54,6.26 Earths,15.391,2016,,,,,,
+Kepler-1248 b,593.026,1.76 Earths,12.9,2016,1.18 x Earth,Super Earth,Transit,0.0806 AU,7.5 days,0
+TrES-5 b,360.313,1.79 Jupiters,13.677,2011,1.194 x Jupiter,Gas Giant,Transit,0.02459 AU,1.5 days,< 0.03
+TrES-4 b,515.98,0.78 Jupiters,11.932,2007,1.61 x Jupiter,Gas Giant,Transit,0.05084 AU,3.6 days,0
+TrES-3 b,231.337,1.91 Jupiters,12.362,2007,1.336 x Jupiter,Gas Giant,Transit,0.02282 AU,1.3 days,0
+Kepler-775 b,398.676,1.81 Earths,13.564,2016,1.19 x Earth,Super Earth,Transit,0.0187 AU,1 days,0
+Kepler-774 b,917.804,10.2 Earths,12.886,2016,0.283 x Jupiter,Neptune-like,Transit,0.1114 AU,11.1 days,0
+Kepler-773 b,547.026,2.63 Earths,13.387,2016,1.43 x Earth,Super Earth,Transit,0.047 AU,3.7 days,0
+Kepler-772 b,1130.21,3.97 Earths,14.145,2016,1.82 x Earth,Super Earth,Transit,0.1071 AU,13 days,0
+Kepler-771 b,1393.85,3.97 Earths,14.958,2016,1.82 x Earth,Super Earth,Transit,0.0843 AU,8.7 days,0
+Kepler-770 d,930.457,2.54 Earths,14.852,2016,1.4 x Earth,Super Earth,Transit,0.0616 AU,4.2 days,0
+Kepler-770 c,930.457,1.87 Earths,14.852,2016,1.2 x Earth,Super Earth,Transit,0.0309 AU,1.5 days,0
+Kepler-770 b,930.457,5.9 Earths,14.852,2016,0.205 x Jupiter,Neptune-like,Transit,0.1694 AU,18.9 days,0
+Kepler-769 c,1169.57,3.86 Earths,14.984,2016,1.79 x Earth,Super Earth,Transit,0.1297 AU,16 days,0
+Kepler-769 b,1169.57,8.85 Earths,14.984,2016,0.261 x Jupiter,Neptune-like,Transit,0.0778 AU,7.4 days,0
+Kepler-768 b,784.56,3.86 Earths,15.969,2016,,,,,,
+Kepler-767 b,2251.03,35.7 Earths,15.678,2016,0.592 x Jupiter,Neptune-like,Transit,0.5874 AU,161.5 days,0
+Kepler-766 b,2297.62,11.4 Earths,15.825,2016,0.302 x Jupiter,Neptune-like,Transit,0.066 AU,6.1 days,0
+Kepler-765 b,1076.28,6.48 Earths,14.709,2016,0.217 x Jupiter,Neptune-like,Transit,0.1754 AU,27.7 days,0
+Kepler-764 b,1047.84,3.33 Earths,15.555,2016,1.64 x Earth,Super Earth,Transit,0.0724 AU,7.3 days,0
+Kepler-763 b,962.459,1.98 Earths,15.965,2016,1.22 x Earth,Super Earth,Transit,0.0205 AU,1.2 days,0
+Kepler-762 b,1898.26,Unknown,15.574,2016,1.131 x Jupiter,Gas Giant,Transit,0.0493 AU,3.8 days,0
+Kepler-761 b,830.707,4.78 Earths,14.993,2016,2.03 x Earth,Super Earth,Transit,0.0874 AU,10.1 days,0
+Kepler-760 c,792.336,2.79 Earths,15.181,2016,1.48 x Earth,Super Earth,Transit,0.0333 AU,2.5 days,0
+Kepler-760 b,792.336,9.59 Earths,15.181,2016,0.273 x Jupiter,Neptune-like,Transit,0.0772 AU,8.7 days,0
+Kepler-759 b,1073.48,5.77 Earths,14.579,2016,0.203 x Jupiter,Neptune-like,Transit,0.2329 AU,41.8 days,0
+Kepler-758 e,1502.32,2.96 Earths,14.379,2016,1.53 x Earth,Super Earth,Transit,0.0785 AU,8.2 days,0
